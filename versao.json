@@ -1,10 +1,10 @@
 {
   "app": {
-    "versao": "2.4.1",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.4.1/App.zip",
-    "changelog": "Teste do auto-updater",
+    "versao": "2.4.2",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.4.2/App.zip",
+    "changelog": "Dashboard: correcao do tema (claro/cinza/escuro nos graficos). Instalador: verificacao real do Oracle Client apos o clique de conclusao.",
     "obrigatorio": false,
-    "data": "2026-07-24T14:07:46.111Z"
+    "data": "2026-07-24T18:50:35.843Z"
   },
   "banco": {
     "versao": "0.0.0",
