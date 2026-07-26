@@ -1,10 +1,10 @@
 {
   "app": {
-    "versao": "2.4.2",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.4.2/App.zip",
-    "changelog": "Dashboard: correcao do tema (claro/cinza/escuro nos graficos). Instalador: verificacao real do Oracle Client apos o clique de conclusao.",
+    "versao": "2.4.3",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.4.3/App.zip",
+    "changelog": "App.zip completo: GestorIA + Updater + logos",
     "obrigatorio": false,
-    "data": "2026-07-24T18:50:35.843Z"
+    "data": "2026-07-26T23:27:24.594Z"
   },
   "banco": {
     "versao": "1.0.0",
