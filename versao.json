@@ -7,9 +7,15 @@
     "data": "2026-07-26T23:27:24.594Z"
   },
   "banco": {
-    "versao": "1.0.0",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/banco-v1.0.0/banco.zip",
-    "changelog": "Schema inicial",
-    "data": "2026-07-26T14:53:32.501Z"
+    "versao": "2.0.0",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/banco-v2.0.0/banco.zip",
+    "changelog": "Migracao para PostgreSQL: scripts banco_pg/01..09 no lugar dos SQL Oracle",
+    "data": "2026-07-31T14:06:25.470Z"
+  },
+  "postgres": {
+    "versao": "17.10",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/postgres-v17.10/postgres.zip",
+    "changelog": "PostgreSQL 17.10 embarcado (arvore podada, com VCRUNTIME140/VCRUNTIME140_1/MSVCP140)",
+    "data": "2026-07-31T14:06:25.470Z"
   }
 }
