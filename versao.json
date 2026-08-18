@@ -1,10 +1,10 @@
 {
   "app": {
-    "versao": "2.4.3",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.4.3/App.zip",
-    "changelog": "App.zip completo: GestorIA + Updater + logos",
+    "versao": "2.5.0",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.5.0/App.zip",
+    "changelog": "DefinirBasePostgres explicito no app; item de menu Etiqueta Avulsa; build em modo Release (exe ~10 MB, sem debug)",
     "obrigatorio": false,
-    "data": "2026-07-26T23:27:24.594Z"
+    "data": "2026-08-18T17:44:52.694Z"
   },
   "banco": {
     "versao": "2.0.1",
