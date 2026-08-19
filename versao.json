@@ -1,10 +1,10 @@
 {
   "app": {
-    "versao": "2.5.1",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.5.1/App.zip",
-    "changelog": "Corrige travamento ao finalizar venda sem forma de pagamento; validacao de campos no assistente inicial; barra de progresso do instalador; atualizador automatico",
+    "versao": "2.5.2",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.5.2/App.zip",
+    "changelog": "Rodape do login mostra a versao real; App.zip passa a incluir o GestorIA_Updater.exe",
     "obrigatorio": false,
-    "data": "2026-08-18T20:38:19.221Z"
+    "data": "2026-08-19T23:25:23.380Z"
   },
   "banco": {
     "versao": "2.0.1",
