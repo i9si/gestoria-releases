@@ -1,10 +1,10 @@
 {
   "app": {
-    "versao": "2.5.2",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.5.2/App.zip",
-    "changelog": "Rodape do login mostra a versao real; App.zip passa a incluir o GestorIA_Updater.exe",
+    "versao": "2.5.3",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/v2.5.3/App.zip",
+    "changelog": "Atalhos de teclado no PDV (Enter no desconto e no pagamento); rotulo Aplicar a todas; icone do atualizador",
     "obrigatorio": false,
-    "data": "2026-08-19T23:25:23.380Z"
+    "data": "2026-08-20T19:42:22.957Z"
   },
   "banco": {
     "versao": "2.0.1",
