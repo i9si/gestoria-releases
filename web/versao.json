@@ -1,0 +1,13 @@
+{
+  "servidor": {
+    "versao": "0.2.0",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.2.0/GestorIA-Servidor-0.2.0.zip",
+    "sha256": "ff761442e2cce3245ee08790fc2f759e441ebb6d3372c8d99cc7b9d7163e265e",
+    "tamanho": 72212597,
+    "changelog": "Compras: entrada de NF-e pelo XML (fardo em unidade ou em fardo, custo com frete e ST, memoria do fornecedor); sininho com as notas emitidas para a loja; NF-e (modelo 55) pelo caixa e depois da venda; menu em sanfona; aviso de versao nova no topo.",
+    "obrigatorio": false,
+    "minima": "0.1.0",
+    "commit": "09979e7",
+    "data": "2026-09-22T10:19:50.372Z"
+  }
+}
