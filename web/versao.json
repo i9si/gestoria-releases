@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.3.0",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.3.0/GestorIA-Servidor-0.3.0.zip",
-    "sha256": "983695fe91e006f1824659ea96077e3f296f8d13087ef9b8dbd6440d12425205",
-    "tamanho": 72215839,
-    "changelog": "Ajuda (F1) com busca de telas e atalhos Alt+Shift para abrir cadastros e operacoes; roteiro de demonstracao de bebidas; entrada de NF-e e sininho da 0.2.0.",
+    "versao": "0.4.0",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.0/GestorIA-Servidor-0.4.0.zip",
+    "sha256": "92cf1b7cb03ea6c5a03ec174d33c0633f8cb8d54023ccd680599d2cea7a0ef1a",
+    "tamanho": 72233149,
+    "changelog": "Caixa por toque no celular (barra fixa, camera para codigo de barras, compartilhar comprovante); inscricao estadual pela SEFAZ nos cadastros; acesso remoto de suporte (RustDesk); menu com subdivisoes; ajuda F1 com atalhos.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "f2f88f9",
-    "data": "2026-09-22T12:15:38.071Z"
+    "commit": "37b1937",
+    "data": "2026-09-23T20:00:36.436Z"
   }
 }
