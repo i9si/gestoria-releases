@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.1",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.1/GestorIA-Servidor-0.4.1.zip",
-    "sha256": "05be3e31098bcb690826a922158f0d6029f33154869baee99242a5f7ea0a62c3",
-    "tamanho": 72236509,
-    "changelog": "Correcoes da NFC-e: grupos tributarios nascem na primeira emissao; data de autorizacao do emissor em dd/MM/yyyy era recusada e a nota ficava 'processando' mesmo autorizada.",
+    "versao": "0.4.2",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.2/GestorIA-Servidor-0.4.2.zip",
+    "sha256": "ce51bbbf630bef6b5e94880e2fe8a465a84c436f89d4a4a913b998809ea0e077",
+    "tamanho": 72252642,
+    "changelog": "Codigo IBGE da empresa (pelo CEP) e do cliente (assistente) gravados para a NF-e; base do TEF Scope (cartao no pinpad e PIX); loja so na nuvem.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "82cd17f",
-    "data": "2026-09-23T20:58:58.286Z"
+    "commit": "f407c9a",
+    "data": "2026-09-23T21:55:22.811Z"
   }
 }
