@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.3",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.3/GestorIA-Servidor-0.4.3.zip",
-    "sha256": "aa4332c5446740ca06ffd9e3ce6190bfd842625ea93bea818183a4c039f37ab6",
-    "tamanho": 72257871,
-    "changelog": "Totem de autoatendimento (/totem) com fotos, sacola e pagamento no TEF; foto no cadastro de produto; IE e IBGE pelo assistente; grupos tributarios padrao automaticos",
+    "versao": "0.4.4",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.4/GestorIA-Servidor-0.4.4.zip",
+    "sha256": "fdca55c31d4c9d6631d24f45bb7ef4ac45fb92d743828a75c0fb51ee4c775b55",
+    "tamanho": 72284447,
+    "changelog": "Segmentacao de clientes (publicos para WhatsApp/CRM, CSV) e recompra por produto no painel; API da Central; .env com permissao conferida",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "eb6420f",
-    "data": "2026-09-23T23:01:38.509Z"
+    "commit": "8c2df3c",
+    "data": "2026-09-24T15:04:00.514Z"
   }
 }
