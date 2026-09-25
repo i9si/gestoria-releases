@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.9",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.9/GestorIA-Servidor-0.4.9.zip",
-    "sha256": "7c7f7fd5241473e5f515cb1c8915edd55196711c382c33de2197872fd444c34c",
-    "tamanho": 72285976,
-    "changelog": "Cupom termico: mais papel antes do corte. TEF simulado com tempos de demonstracao.",
+    "versao": "0.4.10",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.10/GestorIA-Servidor-0.4.10.zip",
+    "sha256": "0bcbef04ea5a8d30d380f9eed77eb4a2ade1bb210905113df06927d2efd40a0d",
+    "tamanho": 72297473,
+    "changelog": "Totem: marca Atendi9 no rodape com a logomarca do cliente. Cupom: mais papel antes do corte.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "4a1fec7",
-    "data": "2026-09-25T14:40:49.188Z"
+    "commit": "9a7e75b",
+    "data": "2026-09-25T14:46:06.209Z"
   }
 }
