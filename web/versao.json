@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.6",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.6/GestorIA-Servidor-0.4.6.zip",
-    "sha256": "6bd20c2938082e72ff4bc3b4c7977787a412135b611d9c7268a2f2c96dfcb4fb",
-    "tamanho": 72285643,
-    "changelog": "Logomarca do cliente (Parametros do sistema) exibida no totem.",
+    "versao": "0.4.7",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.7/GestorIA-Servidor-0.4.7.zip",
+    "sha256": "8fc7285d71d5493906794e89eeb820d3390a653cd167c2fe46d24f73ed5d028c",
+    "tamanho": 72285949,
+    "changelog": "Totem: a pergunta do cupom decide a nota (Nao = recibo, Sim = NFC-e impressa).",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "4b523fc",
-    "data": "2026-09-25T12:58:51.938Z"
+    "commit": "8f73f49",
+    "data": "2026-09-25T13:16:46.655Z"
   }
 }
