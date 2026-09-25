@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.10",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.10/GestorIA-Servidor-0.4.10.zip",
-    "sha256": "0bcbef04ea5a8d30d380f9eed77eb4a2ade1bb210905113df06927d2efd40a0d",
-    "tamanho": 72297473,
-    "changelog": "Totem: marca Atendi9 no rodape com a logomarca do cliente. Cupom: mais papel antes do corte.",
+    "versao": "0.4.11",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.11/GestorIA-Servidor-0.4.11.zip",
+    "sha256": "32188ab17b8c894c9acf870b1654336fba52ee0383a242d6b74a24b8a70512b4",
+    "tamanho": 72297734,
+    "changelog": "Totem: categorias em cartoes com foto antes dos produtos.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "9a7e75b",
-    "data": "2026-09-25T14:46:06.209Z"
+    "commit": "78de0be",
+    "data": "2026-09-25T17:00:13.127Z"
   }
 }
