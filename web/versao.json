@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.8",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.8/GestorIA-Servidor-0.4.8.zip",
-    "sha256": "a125e7bb22eb7702e5ee180e741e86c0717ad75e77a11e41dfddbd68fe04d165",
-    "tamanho": 72285973,
-    "changelog": "Totem: tocar numa foto da tela de espera abre a categoria daquele produto.",
+    "versao": "0.4.9",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.9/GestorIA-Servidor-0.4.9.zip",
+    "sha256": "7c7f7fd5241473e5f515cb1c8915edd55196711c382c33de2197872fd444c34c",
+    "tamanho": 72285976,
+    "changelog": "Cupom termico: mais papel antes do corte. TEF simulado com tempos de demonstracao.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "2ab5f54",
-    "data": "2026-09-25T13:26:26.117Z"
+    "commit": "4a1fec7",
+    "data": "2026-09-25T14:40:49.188Z"
   }
 }
