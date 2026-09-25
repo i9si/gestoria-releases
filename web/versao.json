@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.5",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.5/GestorIA-Servidor-0.4.5.zip",
-    "sha256": "1a06151b040abd0bbf45406f8143034546fd0b599e13c5cb81454b11bf1e6197",
-    "tamanho": 72284642,
-    "changelog": "Totem: pergunta se imprime o cupom e volta ao inicio; fecha o caixa de ontem e abre o de hoje sozinho. Fotos no catalogo do totem.",
+    "versao": "0.4.6",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.6/GestorIA-Servidor-0.4.6.zip",
+    "sha256": "6bd20c2938082e72ff4bc3b4c7977787a412135b611d9c7268a2f2c96dfcb4fb",
+    "tamanho": 72285643,
+    "changelog": "Logomarca do cliente (Parametros do sistema) exibida no totem.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "2c6ca3f",
-    "data": "2026-09-25T00:27:51.169Z"
+    "commit": "4b523fc",
+    "data": "2026-09-25T12:58:51.938Z"
   }
 }
