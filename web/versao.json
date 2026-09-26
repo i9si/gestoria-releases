@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.14",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.14/GestorIA-Servidor-0.4.14.zip",
-    "sha256": "be35352d4eb7b8bb11cc209eec22e4c43211035f81fa665b8b6e2aff843eb101",
-    "tamanho": 72298274,
-    "changelog": "DANFE NFC-e termico com QR Code como imagem (sai em qualquer impressora); cupom sem guilhotina avanca com os comandos da impressora; sacola do totem rola com muitos itens.",
+    "versao": "0.4.15",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.15/GestorIA-Servidor-0.4.15.zip",
+    "sha256": "b8eea3097af915afa7e08aa3bc8f5b82b5d063cc6961697369b6a2d761beaaf5",
+    "tamanho": 72317931,
+    "changelog": "Loja online funciona sem certificado (so a nota espera o A1); pergunta 'Deseja trocar para o modo online?' com a loja executando a troca; certificado A1 da loja sobe para a nuvem por https; leitor de codigo de barras no totem busca no servidor e confirma o item; Central le e grava certificado por loja.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "a4f0d98",
-    "data": "2026-09-26T12:21:11.333Z"
+    "commit": "ffd0fc3",
+    "data": "2026-09-26T19:09:18.479Z"
   }
 }
