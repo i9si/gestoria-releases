@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.12",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.12/GestorIA-Servidor-0.4.12.zip",
-    "sha256": "a90a07a930b32e5e331f029a9df27e0ba04e39620d355c6a1499bbfce72d78ce",
-    "tamanho": 72297931,
-    "changelog": "Totem: categorias com foto ja na tela de espera; capas escolhidas pelo nome do produto.",
+    "versao": "0.4.13",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.13/GestorIA-Servidor-0.4.13.zip",
+    "sha256": "0a1ec1ac0ca39be459833607e84fb864ae193ea292663920ee8fdee0ff42f141",
+    "tamanho": 72298126,
+    "changelog": "Cupom com assinatura Atendi9 e opcao de impressora sem guilhotina (mais papel no fim). Totem resolve TEF pendente ao abrir.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "7a4b635",
-    "data": "2026-09-25T17:40:44.853Z"
+    "commit": "cb6c412",
+    "data": "2026-09-26T11:52:49.661Z"
   }
 }
