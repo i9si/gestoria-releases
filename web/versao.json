@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.20",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.20/GestorIA-Servidor-0.4.20.zip",
-    "sha256": "4e2bc0aaee1b22b8265c96b16aaa89d2519082e1546269ab16e1df03f27b82f0",
-    "tamanho": 72333825,
-    "changelog": "Loja arquivada nao e reativada pela reconciliacao da Central.",
+    "versao": "0.4.21",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.21/GestorIA-Servidor-0.4.21.zip",
+    "sha256": "44c38325585df763367124a6dccb6c74b01a6ec251af18da5ed63e1ef1a45f9f",
+    "tamanho": 72362584,
+    "changelog": "Loja que nasceu na nuvem pode ganhar servidor local com a chave de instalacao da Central: traz cadastros, vendas, certificado, CSC e usuarios. CSC tambem sobe da loja para a nuvem.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "dd8ea6a",
-    "data": "2026-09-27T15:26:22.676Z"
+    "commit": "e04907f",
+    "data": "2026-09-27T19:23:21.362Z"
   }
 }
