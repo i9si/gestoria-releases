@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.15",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.15/GestorIA-Servidor-0.4.15.zip",
-    "sha256": "b8eea3097af915afa7e08aa3bc8f5b82b5d063cc6961697369b6a2d761beaaf5",
-    "tamanho": 72317931,
-    "changelog": "Loja online funciona sem certificado (so a nota espera o A1); pergunta 'Deseja trocar para o modo online?' com a loja executando a troca; certificado A1 da loja sobe para a nuvem por https; leitor de codigo de barras no totem busca no servidor e confirma o item; Central le e grava certificado por loja.",
+    "versao": "0.4.16",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.16/GestorIA-Servidor-0.4.16.zip",
+    "sha256": "b1e0e724237854cbfc82d9061a4ac20b3f19beed732fcbbf182202879e773035",
+    "tamanho": 72328268,
+    "changelog": "Tres jeitos de vender: caixa, totem com fotos e autoatendimento pelo leitor (lista estilo supermercado, CPF na nota, cancelamento com supervisor). Inscricao estadual consultada na SEFAZ ao importar o certificado; regime pela Receita; MEI (CRT 4) de ponta a ponta.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "ffd0fc3",
-    "data": "2026-09-26T19:09:18.479Z"
+    "commit": "6f34690",
+    "data": "2026-09-27T12:39:58.501Z"
   }
 }
