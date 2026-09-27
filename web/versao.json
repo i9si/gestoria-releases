@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.17",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.17/GestorIA-Servidor-0.4.17.zip",
-    "sha256": "92ae83946a85b01556b98c4c0be399316e77874f300b93bcca7a13b07f98547e",
-    "tamanho": 72328660,
-    "changelog": "Importacao do certificado diz por que a inscricao estadual nao veio: nao encontrada na SEFAZ ou consulta falhou.",
+    "versao": "0.4.18",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.18/GestorIA-Servidor-0.4.18.zip",
+    "sha256": "7580ff505aeeedcadc7d8dbfec7f78dfae38b73442f9686c9227a04bb45f56bd",
+    "tamanho": 72331989,
+    "changelog": "Loja criada pela Central ja vem com o endereco (Receita pelo CNPJ). Caixa pergunta Fiscal ou Orcamento na primeira venda. Totem com vendedor aceita dinheiro com troco; teclas de atalho para monitor sem toque; teclado na tela na busca. Autoatendimento com efeito do leitor e leitor com letra antes do codigo.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "df5a8b3",
-    "data": "2026-09-27T12:46:36.838Z"
+    "commit": "5efb2bf",
+    "data": "2026-09-27T15:11:38.339Z"
   }
 }
