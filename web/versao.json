@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.18",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.18/GestorIA-Servidor-0.4.18.zip",
-    "sha256": "7580ff505aeeedcadc7d8dbfec7f78dfae38b73442f9686c9227a04bb45f56bd",
-    "tamanho": 72331989,
-    "changelog": "Loja criada pela Central ja vem com o endereco (Receita pelo CNPJ). Caixa pergunta Fiscal ou Orcamento na primeira venda. Totem com vendedor aceita dinheiro com troco; teclas de atalho para monitor sem toque; teclado na tela na busca. Autoatendimento com efeito do leitor e leitor com letra antes do codigo.",
+    "versao": "0.4.19",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.19/GestorIA-Servidor-0.4.19.zip",
+    "sha256": "d7cb194d825f9a6f6bd1e60e79fe335734e70e31ffa7f63777c3550047c2883e",
+    "tamanho": 72333581,
+    "changelog": "Central pode arquivar uma loja (no lugar de apagar): sai de uso e libera codigo e e-mail para um cadastro novo, sem apagar nada.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "5efb2bf",
-    "data": "2026-09-27T15:11:38.339Z"
+    "commit": "8ff7b4e",
+    "data": "2026-09-27T15:18:44.985Z"
   }
 }
