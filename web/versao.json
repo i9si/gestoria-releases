@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.4.21",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.21/GestorIA-Servidor-0.4.21.zip",
-    "sha256": "44c38325585df763367124a6dccb6c74b01a6ec251af18da5ed63e1ef1a45f9f",
-    "tamanho": 72362584,
-    "changelog": "Loja que nasceu na nuvem pode ganhar servidor local com a chave de instalacao da Central: traz cadastros, vendas, certificado, CSC e usuarios. CSC tambem sobe da loja para a nuvem.",
+    "versao": "0.4.22",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.4.22/GestorIA-Servidor-0.4.22.zip",
+    "sha256": "1ceab28d82048ad065af9f4cd8bbb8a79318c2b8ebd69e891bc0904c02de4110",
+    "tamanho": 72363226,
+    "changelog": "Central pode cancelar uma chave de instalacao; o instalador avisa quando a loja ainda nao foi parametrizada.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "e04907f",
-    "data": "2026-09-27T19:23:21.362Z"
+    "commit": "613c247",
+    "data": "2026-09-27T19:35:59.172Z"
   }
 }
