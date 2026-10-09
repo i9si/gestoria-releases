@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.0",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.0/GestorIA-Servidor-0.5.0.zip",
-    "sha256": "162c4f28beacd2e91e94741dad56c1142ced2af61eaa183e9300e44955d33e45",
-    "tamanho": 83245018,
-    "changelog": "MDF-e (manifesto de transporte das NF-e); Desfazer o vinculo ou a grade de uma linha na entrada de NF-e; trocar a senha de um usuario direto pelo servidor (scripts/redefinir-senha.mjs); noti9 troca o trabalhador apos 656 (lado do emissor); tela de Compras e Ajuda com videos por aparelho e topicos",
+    "versao": "0.5.1",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.1/GestorIA-Servidor-0.5.1.zip",
+    "sha256": "28539e0758e9cc8627e9a9352106cf8f6cef50fa8ff24cd67e78e2bd528811e8",
+    "tamanho": 83248029,
+    "changelog": "A tela pergunta sozinha quando ha versao nova e recarrega quando o sistema e atualizado (sem fechar o programa); barra com o tempo durante a atualizacao; busca de produto pelo texto da nota de compra (Produtos e caixa); aviso de consultando na busca de Produtos; mensagem certa no Desfazer da nota.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "53fd937",
-    "data": "2026-10-09T20:57:02.615Z"
+    "commit": "c25c9dc",
+    "data": "2026-10-09T22:18:46.294Z"
   }
 }
