@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.2",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.2/GestorIA-Servidor-0.5.2.zip",
-    "sha256": "1e1572896041a87d83e8333b736f5cc3ec04edfdf4187d7210bb853db4701f8c",
-    "tamanho": 83248047,
-    "changelog": "Barra de atalhos do caixa (F1 a F12) visivel quando aparece a tarja de versao nova; a janela de atualizar nao abre no meio de uma venda.",
+    "versao": "0.5.3",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.3/GestorIA-Servidor-0.5.3.zip",
+    "sha256": "0b795146e53ba607c820ef092a05eb3d2c771736b68a5a8703d160b33549bd8d",
+    "tamanho": 83249867,
+    "changelog": "SPED Fiscal (EFD ICMS/IPI): registro 1601 das vendas recebidas por instituicao de pagamento (marque na forma de pagamento), codigo de receita do E116 so com numeros, C100 sem PIS-ST/COFINS-ST e aviso quando falta o contador.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "a51d65b",
-    "data": "2026-10-09T22:44:13.447Z"
+    "commit": "bfe3ad8",
+    "data": "2026-10-10T00:21:22.155Z"
   }
 }
