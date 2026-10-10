@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.3",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.3/GestorIA-Servidor-0.5.3.zip",
-    "sha256": "0b795146e53ba607c820ef092a05eb3d2c771736b68a5a8703d160b33549bd8d",
-    "tamanho": 83249867,
-    "changelog": "SPED Fiscal (EFD ICMS/IPI): registro 1601 das vendas recebidas por instituicao de pagamento (marque na forma de pagamento), codigo de receita do E116 so com numeros, C100 sem PIS-ST/COFINS-ST e aviso quando falta o contador.",
+    "versao": "0.5.4",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.4/GestorIA-Servidor-0.5.4.zip",
+    "sha256": "4fb4648243d3c428b2483c61277f15509632035bf3a1048e0b1b73fd3c899cf4",
+    "tamanho": 83266933,
+    "changelog": "SPED Fiscal automatico: a EFD ICMS/IPI do mes anterior e gerada e mandada ao contador pelo Conti9 no dia 8 (configuravel). Pendencias com o contador na Conciliacao contabil. Extrato da fronteira do e-Fisco (.xls) importado direto. Pergunta antes de gerar sem o extrato da fronteira.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "bfe3ad8",
-    "data": "2026-10-10T00:21:22.155Z"
+    "commit": "2dd7b69",
+    "data": "2026-10-10T03:02:25.332Z"
   }
 }
