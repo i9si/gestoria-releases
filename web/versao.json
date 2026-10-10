@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.4",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.4/GestorIA-Servidor-0.5.4.zip",
-    "sha256": "4fb4648243d3c428b2483c61277f15509632035bf3a1048e0b1b73fd3c899cf4",
-    "tamanho": 83266933,
-    "changelog": "SPED Fiscal automatico: a EFD ICMS/IPI do mes anterior e gerada e mandada ao contador pelo Conti9 no dia 8 (configuravel). Pendencias com o contador na Conciliacao contabil. Extrato da fronteira do e-Fisco (.xls) importado direto. Pergunta antes de gerar sem o extrato da fronteira.",
+    "versao": "0.5.5",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.5/GestorIA-Servidor-0.5.5.zip",
+    "sha256": "e954d422913b254dc601e9554a05f2d3208e2c5ae7b5ef7e51a270c3832da9c3",
+    "tamanho": 83267211,
+    "changelog": "SPED automatico so para lojas que entregam a EFD ICMS/IPI (regime normal e Simples acima do sublimite); Simples e MEI ficam de fora.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "2dd7b69",
-    "data": "2026-10-10T03:02:25.332Z"
+    "commit": "ca5bc5d",
+    "data": "2026-10-10T03:30:00.228Z"
   }
 }
