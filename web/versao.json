@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.8",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.8/GestorIA-Servidor-0.5.8.zip",
-    "sha256": "11e6afda5c840d92898b06d12e4485b90e4fbc1ca06fb2edceec0780fce9db7f",
-    "tamanho": 83322335,
-    "changelog": "Importacao do sistema antigo (Genesis) pela Central com varias filiais, codigo do produto mantido, codigos das filiais e estoque na data de corte; resumo do SPED para o portal do contador.",
+    "versao": "0.5.9",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.9/GestorIA-Servidor-0.5.9.zip",
+    "sha256": "751234ae96d575781524c899bd2087cdd3a0c354392f81b0fccf8a5af2b58bec",
+    "tamanho": 83322500,
+    "changelog": "Importacao do Genesis: menos conflitos no de-para (o candidato mais votado com o mesmo nome e ligado sozinho).",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "b3d79c1",
-    "data": "2026-10-11T04:55:57.146Z"
+    "commit": "476882b",
+    "data": "2026-10-11T05:00:40.311Z"
   }
 }
