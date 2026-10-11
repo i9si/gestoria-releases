@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.7",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.7/GestorIA-Servidor-0.5.7.zip",
-    "sha256": "53088eef757f79f5cb847538a962faf52131184293b0adbd4f26196c0d7ef32b",
-    "tamanho": 83303686,
-    "changelog": "Seletor de filial do topo: a caixa inteira abre a lista, filiais de deposito marcadas e lista atualizada ao cadastrar; a configuracao da NF-e da matriz passa para as filiais.",
+    "versao": "0.5.8",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.8/GestorIA-Servidor-0.5.8.zip",
+    "sha256": "11e6afda5c840d92898b06d12e4485b90e4fbc1ca06fb2edceec0780fce9db7f",
+    "tamanho": 83322335,
+    "changelog": "Importacao do sistema antigo (Genesis) pela Central com varias filiais, codigo do produto mantido, codigos das filiais e estoque na data de corte; resumo do SPED para o portal do contador.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "1e8c1d2",
-    "data": "2026-10-11T04:17:27.881Z"
+    "commit": "b3d79c1",
+    "data": "2026-10-11T04:55:57.146Z"
   }
 }
