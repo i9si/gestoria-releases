@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.11",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.11/GestorIA-Servidor-0.5.11.zip",
-    "sha256": "933df9de28998f636c3f0310b056afdac44d6cb4adbae38a31dd28342aee3b76",
-    "tamanho": 83340241,
-    "changelog": "Importacao do Genesis: nomes de produto com acento gravado errado no sistema antigo saem corrigidos.",
+    "versao": "0.5.12",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.12/GestorIA-Servidor-0.5.12.zip",
+    "sha256": "8709b8c4683754dad60b862efe277eca73c4f119ca5731b2b4aa822bd898abac",
+    "tamanho": 83341761,
+    "changelog": "Importacao do Genesis: aceitar todas as sugestoes do de-para, com a ligacao marcada para a loja confirmar.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "879c294",
-    "data": "2026-10-11T12:49:37.826Z"
+    "commit": "f3bddab",
+    "data": "2026-10-11T12:58:52.799Z"
   }
 }
