@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.12",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.12/GestorIA-Servidor-0.5.12.zip",
-    "sha256": "8709b8c4683754dad60b862efe277eca73c4f119ca5731b2b4aa822bd898abac",
-    "tamanho": 83341761,
-    "changelog": "Importacao do Genesis: aceitar todas as sugestoes do de-para, com a ligacao marcada para a loja confirmar.",
+    "versao": "0.5.13",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.13/GestorIA-Servidor-0.5.13.zip",
+    "sha256": "915b26090d4b9854ac6d68df43ef4093440b98412962efcff88c950f85e1cd38",
+    "tamanho": 83344709,
+    "changelog": "Importacao do Genesis: o de-para usa a descricao da nota de entrada, reimportar corrige as ligacoes e o estoque.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "f3bddab",
-    "data": "2026-10-11T12:58:52.799Z"
+    "commit": "0416147",
+    "data": "2026-10-11T15:31:45.173Z"
   }
 }
