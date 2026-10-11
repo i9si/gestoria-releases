@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.13",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.13/GestorIA-Servidor-0.5.13.zip",
-    "sha256": "915b26090d4b9854ac6d68df43ef4093440b98412962efcff88c950f85e1cd38",
-    "tamanho": 83344709,
-    "changelog": "Importacao do Genesis: o de-para usa a descricao da nota de entrada, reimportar corrige as ligacoes e o estoque.",
+    "versao": "0.5.14",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.14/GestorIA-Servidor-0.5.14.zip",
+    "sha256": "7b47cd40e3146853798caa50f862107daa42fccf1aa2f0cc382600350273ad04",
+    "tamanho": 83347852,
+    "changelog": "Nova tela Estoque > Codigos a confirmar: o codigo antigo de cada filial, confirmar ou trocar o produto (o saldo vai junto); a busca acha pelo codigo antigo.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "0416147",
-    "data": "2026-10-11T15:31:45.173Z"
+    "commit": "b51ffb6",
+    "data": "2026-10-11T15:43:44.272Z"
   }
 }
