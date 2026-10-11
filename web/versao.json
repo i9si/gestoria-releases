@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.15",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.15/GestorIA-Servidor-0.5.15.zip",
-    "sha256": "b22febee45619c8f731bee7d43d84e704c172fde75bcaa97cab4c9a63b2fea5e",
-    "tamanho": 83348133,
-    "changelog": "Importacao: notas emitidas do Oracle com o XML autorizado e o do cancelamento (filtro e apelido no mapa).",
+    "versao": "0.5.16",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.16/GestorIA-Servidor-0.5.16.zip",
+    "sha256": "1a4efe6d745caa6403ed7c8fa71546a5246523f365891c4c495e39721177ff79",
+    "tamanho": 83348961,
+    "changelog": "Importacao: tabelas grandes do dump entram inteiras; filtro por data e alternativas de coluna no mapa.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "825034d",
-    "data": "2026-10-11T19:02:02.276Z"
+    "commit": "4de550b",
+    "data": "2026-10-11T19:21:00.910Z"
   }
 }
