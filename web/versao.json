@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.5",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.5/GestorIA-Servidor-0.5.5.zip",
-    "sha256": "e954d422913b254dc601e9554a05f2d3208e2c5ae7b5ef7e51a270c3832da9c3",
-    "tamanho": 83267211,
-    "changelog": "SPED automatico so para lojas que entregam a EFD ICMS/IPI (regime normal e Simples acima do sublimite); Simples e MEI ficam de fora.",
+    "versao": "0.5.6",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.6/GestorIA-Servidor-0.5.6.zip",
+    "sha256": "a715d8302a758863882cbf98c2912a5e80e8cb9ce1d2080778b864969b1fcd8c",
+    "tamanho": 83300572,
+    "changelog": "Filial nova ja nasce com a inscricao estadual consultada na SEFAZ pelo certificado da matriz, com a NF-e e o contador da matriz; botao Buscar IE para filial sem inscricao; contador completado pelo CNPJ do escritorio e pelo CEP (endereco e municipio IBGE do SPED).",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "ca5bc5d",
-    "data": "2026-10-10T03:30:00.228Z"
+    "commit": "4ef13f2",
+    "data": "2026-10-11T03:50:09.081Z"
   }
 }
