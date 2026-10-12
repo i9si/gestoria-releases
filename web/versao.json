@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.17",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.17/GestorIA-Servidor-0.5.17.zip",
-    "sha256": "fc82c99391ce97fa8261fa0c9dd1dd9f64c0579fe54680290144b281d88b821f",
-    "tamanho": 83361094,
-    "changelog": "Importacao do Genesis: NF-e de entrada e emitidas e CT-e de 2020 em diante (XML montado das colunas) para o SPED; CT-e com data de entrada separada da emissao no Bloco D",
+    "versao": "0.5.18",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.18/GestorIA-Servidor-0.5.18.zip",
+    "sha256": "c42617c89090f13d501f78723edbfe532a021bc1701b8754c01b1c6236ee212f",
+    "tamanho": 83363423,
+    "changelog": "NFC-e cancelada e numero inutilizado do sistema antigo entram sem XML (SPED com COD_SIT 02); CT-e com a data em que a loja recebeu, que define o mes do SPED",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "1c80d10",
-    "data": "2026-10-12T13:18:13.818Z"
+    "commit": "3b61641",
+    "data": "2026-10-12T16:29:52.313Z"
   }
 }
