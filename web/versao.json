@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.21",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.21/GestorIA-Servidor-0.5.21.zip",
-    "sha256": "23daef026bd9af57b7026b584ce30a34af71c653b0db5cf7e4053e104fd904da",
-    "tamanho": 83372998,
-    "changelog": "Tela do SPED: fretes (CT-e) e imposto de fronteira fechados com o resumo do mes; abrem sozinhos quando ha pendencia",
+    "versao": "0.5.22",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.22/GestorIA-Servidor-0.5.22.zip",
+    "sha256": "93153c16c5beacbf22391b36da62a86162b464aeb33b6a8d0b63305199b8744f",
+    "tamanho": 83376671,
+    "changelog": "XML do mes para a contabilidade (zip com as notas autorizadas e canceladas) na tela do SPED e junto do SPED automatico",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "20ff16d",
-    "data": "2026-10-12T19:46:21.395Z"
+    "commit": "077dc0f",
+    "data": "2026-10-12T20:15:28.241Z"
   }
 }
