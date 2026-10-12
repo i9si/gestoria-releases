@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.19",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.19/GestorIA-Servidor-0.5.19.zip",
-    "sha256": "5607b8f8a10a0d80aecd3876ddda0b77b5e87c062f5c1087a5ac083be3ecfd0b",
-    "tamanho": 83365211,
-    "changelog": "SPED: filial segue a configuracao da matriz, codigo de receita padrao de PE, telefone incompleto nao entra; importacao do Genesis conserta a chave e os itens da transferencia pela nota emitida e marca a NF-e nao enviada como inutilizada",
+    "versao": "0.5.20",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.20/GestorIA-Servidor-0.5.20.zip",
+    "sha256": "e7d73b6c8559d5f6bf4d595113febc2dad7d107d66259b093f86d2683e685254",
+    "tamanho": 83372446,
+    "changelog": "SPED: Bloco K (estoque do fim do mes, K200) com o inventario do sistema antigo; tipo do item no SPED no cadastro do produto (uso e consumo, ativo e servico ficam fora do inventario); CEST so da tabela oficial",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "f4d7c83",
-    "data": "2026-10-12T18:08:12.357Z"
+    "commit": "3792d34",
+    "data": "2026-10-12T18:40:51.388Z"
   }
 }
