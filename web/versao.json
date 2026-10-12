@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.23",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.23/GestorIA-Servidor-0.5.23.zip",
-    "sha256": "f589c1a487b529781eef8b94f277ac18e91ae503afb4e03d4cec9fd4ef7554ed",
-    "tamanho": 83377188,
-    "changelog": "Central: resumo fiscal da loja (matriz, filiais e contador) para abrir o portal do contador",
+    "versao": "0.5.24",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.24/GestorIA-Servidor-0.5.24.zip",
+    "sha256": "73976621df9987190cd7e049d885110c3c5559bb19aa217227d01275d574b283",
+    "tamanho": 83377815,
+    "changelog": "Enviar o SPED ao portal do contador cadastra a empresa la antes, sem ligar o envio das notas",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "1357525",
-    "data": "2026-10-12T20:21:49.363Z"
+    "commit": "6c4226c",
+    "data": "2026-10-12T21:27:11.668Z"
   }
 }
