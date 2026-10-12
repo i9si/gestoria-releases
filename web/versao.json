@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.16",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.16/GestorIA-Servidor-0.5.16.zip",
-    "sha256": "1a4efe6d745caa6403ed7c8fa71546a5246523f365891c4c495e39721177ff79",
-    "tamanho": 83348961,
-    "changelog": "Importacao: tabelas grandes do dump entram inteiras; filtro por data e alternativas de coluna no mapa.",
+    "versao": "0.5.17",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.17/GestorIA-Servidor-0.5.17.zip",
+    "sha256": "fc82c99391ce97fa8261fa0c9dd1dd9f64c0579fe54680290144b281d88b821f",
+    "tamanho": 83361094,
+    "changelog": "Importacao do Genesis: NF-e de entrada e emitidas e CT-e de 2020 em diante (XML montado das colunas) para o SPED; CT-e com data de entrada separada da emissao no Bloco D",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "4de550b",
-    "data": "2026-10-11T19:21:00.910Z"
+    "commit": "1c80d10",
+    "data": "2026-10-12T13:18:13.818Z"
   }
 }
