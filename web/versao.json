@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.20",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.20/GestorIA-Servidor-0.5.20.zip",
-    "sha256": "e7d73b6c8559d5f6bf4d595113febc2dad7d107d66259b093f86d2683e685254",
-    "tamanho": 83372446,
-    "changelog": "SPED: Bloco K (estoque do fim do mes, K200) com o inventario do sistema antigo; tipo do item no SPED no cadastro do produto (uso e consumo, ativo e servico ficam fora do inventario); CEST so da tabela oficial",
+    "versao": "0.5.21",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.21/GestorIA-Servidor-0.5.21.zip",
+    "sha256": "23daef026bd9af57b7026b584ce30a34af71c653b0db5cf7e4053e104fd904da",
+    "tamanho": 83372998,
+    "changelog": "Tela do SPED: fretes (CT-e) e imposto de fronteira fechados com o resumo do mes; abrem sozinhos quando ha pendencia",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "3792d34",
-    "data": "2026-10-12T18:40:51.388Z"
+    "commit": "20ff16d",
+    "data": "2026-10-12T19:46:21.395Z"
   }
 }
