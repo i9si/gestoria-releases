@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.25",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.25/GestorIA-Servidor-0.5.25.zip",
-    "sha256": "bc4c8eff1c37a8f9d2ae4c0e96d325b0b953c3c7d29004a2f02c671b8baadc60",
-    "tamanho": 88579875,
-    "changelog": "Enviar ao Conti9 manda tambem o pacote do mes por e-mail ao contador: SPED, XML do mes e relatorios de saidas, entradas e CT-e em PDF",
+    "versao": "0.5.26",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.26/GestorIA-Servidor-0.5.26.zip",
+    "sha256": "1d737f6cb7a4732d5e68606655ee21211852928cf14e634a1e6e842a255b524e",
+    "tamanho": 88580895,
+    "changelog": "Contador: o mesmo contador das filiais aparece uma vez so, com 'vale para' as filiais; alterar vale para todas",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "c394817",
-    "data": "2026-10-13T00:10:46.028Z"
+    "commit": "8d47b45",
+    "data": "2026-10-13T00:43:18.171Z"
   }
 }
