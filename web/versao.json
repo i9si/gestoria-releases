@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.31",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.31/GestorIA-Servidor-0.5.31.zip",
-    "sha256": "b3ade1da81408090f80b890500eae35113c9698707b83801b0b43d40a79d60ab",
-    "tamanho": 88583665,
-    "changelog": "SPED: E-mail manda so o arquivo do SPED; relatorios e XML por Documentos fiscais",
+    "versao": "0.5.32",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.32/GestorIA-Servidor-0.5.32.zip",
+    "sha256": "c7781cbb33d900d55ed5d598d776c4b045054d9b0b8b596951a3f2265bb3a951",
+    "tamanho": 88583815,
+    "changelog": "XML do mes com NF-e e NFC-e em pastas separadas",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "6fbb949",
-    "data": "2026-10-13T02:53:53.825Z"
+    "commit": "44ecc5d",
+    "data": "2026-10-13T03:06:23.413Z"
   }
 }
