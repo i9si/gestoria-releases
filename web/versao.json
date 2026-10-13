@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.32",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.32/GestorIA-Servidor-0.5.32.zip",
-    "sha256": "c7781cbb33d900d55ed5d598d776c4b045054d9b0b8b596951a3f2265bb3a951",
-    "tamanho": 88583815,
-    "changelog": "XML do mes com NF-e e NFC-e em pastas separadas",
+    "versao": "0.5.33",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.33/GestorIA-Servidor-0.5.33.zip",
+    "sha256": "3141c6efbd54fae9b70514056df0565a4f98cbb56123a15524da0c91dbbf4a38",
+    "tamanho": 88583753,
+    "changelog": "Relatorios de saida separados em NF-e e NFC-e",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "44ecc5d",
-    "data": "2026-10-13T03:06:23.413Z"
+    "commit": "006076a",
+    "data": "2026-10-13T03:16:03.856Z"
   }
 }
