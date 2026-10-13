@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.28",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.28/GestorIA-Servidor-0.5.28.zip",
-    "sha256": "cefb668d4351f89eb651bf21b9dc2278ae0214be089a9272f81bde954e95c942",
-    "tamanho": 88582266,
-    "changelog": "Arquivos do mes para a contabilidade em Documentos fiscais (XML, relatorios, e-mail); SPED so com o SPED; numeros inutilizados no sistema antigo fora da lista",
+    "versao": "0.5.30",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.30/GestorIA-Servidor-0.5.30.zip",
+    "sha256": "9c6b2edc2adc6aeed4b25274e347f315bc4839957be08030a9a1453babb70ea5",
+    "tamanho": 88583062,
+    "changelog": "Importacao aceita arquivos .7z (bancos do Genesis e do Gestor)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "53f9747",
-    "data": "2026-10-13T02:19:57.412Z"
+    "commit": "2c2c882",
+    "data": "2026-10-13T02:33:56.548Z"
   }
 }
