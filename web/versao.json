@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.27",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.27/GestorIA-Servidor-0.5.27.zip",
-    "sha256": "0e5d23ff9e91c2ad3a7865184410da188b472c4df762f81284fd685c2e3cf4f7",
-    "tamanho": 88581545,
-    "changelog": "SPED: Reenviar ao Conti9 e E-mail com endereco digitado na hora; e-mail ao contador sem o aviso das notas do sistema antigo",
+    "versao": "0.5.28",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.28/GestorIA-Servidor-0.5.28.zip",
+    "sha256": "cefb668d4351f89eb651bf21b9dc2278ae0214be089a9272f81bde954e95c942",
+    "tamanho": 88582266,
+    "changelog": "Arquivos do mes para a contabilidade em Documentos fiscais (XML, relatorios, e-mail); SPED so com o SPED; numeros inutilizados no sistema antigo fora da lista",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "7eaeff6",
-    "data": "2026-10-13T01:33:56.971Z"
+    "commit": "53f9747",
+    "data": "2026-10-13T02:19:57.412Z"
   }
 }
