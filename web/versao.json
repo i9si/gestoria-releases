@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.36",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.36/GestorIA-Servidor-0.5.36.zip",
-    "sha256": "4f0ca7cc781bb839830ec8be34dd95d6caafbae47fdf9494bec1d7177c2daa03",
-    "tamanho": 88592356,
-    "changelog": "Inventario do fim do mes para a contabilidade (formato do Genesis, com impostos); escolher o que vai no e-mail; importacao Genesis: entrada na loja certa e tipo do item",
+    "versao": "0.5.37",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.37/GestorIA-Servidor-0.5.37.zip",
+    "sha256": "031837008895a36ef7363c799abed36c28698c8180d12599443539816ad8e868",
+    "tamanho": 88592991,
+    "changelog": "SPED: NFC-e do caixa antigo emitida como Simples por empresa do regime normal; 1601 com deposito bancario e PIX pelo banco da configuracao",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "f073ac8",
-    "data": "2026-10-13T13:25:12.112Z"
+    "commit": "ae938d6",
+    "data": "2026-10-13T16:32:24.018Z"
   }
 }
