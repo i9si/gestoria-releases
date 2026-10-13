@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.34",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.34/GestorIA-Servidor-0.5.34.zip",
-    "sha256": "6a679c249054a2a511bac9b2303569c2a1d81623674b9d2a8dbacb1d4a73d84e",
-    "tamanho": 88584446,
-    "changelog": "SPED: Simples e MEI mostram a dispensa da EFD e ficam so com o inventario",
+    "versao": "0.5.35",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.35/GestorIA-Servidor-0.5.35.zip",
+    "sha256": "1f031ee3affd5d6269e58753615ba4da5a359306912475f61c989319e778f063",
+    "tamanho": 88587721,
+    "changelog": "SPED: 1601 por instituicao (PIX e cartao), CFOP de entrada pela UF e ST no uso e consumo, centavos do ICMS, C110 da observacao do fisco, PIS/COFINS das notas importadas",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "9146ba7",
-    "data": "2026-10-13T03:27:55.216Z"
+    "commit": "1c1b5a5",
+    "data": "2026-10-13T12:07:07.131Z"
   }
 }
