@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.33",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.33/GestorIA-Servidor-0.5.33.zip",
-    "sha256": "3141c6efbd54fae9b70514056df0565a4f98cbb56123a15524da0c91dbbf4a38",
-    "tamanho": 88583753,
-    "changelog": "Relatorios de saida separados em NF-e e NFC-e",
+    "versao": "0.5.34",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.34/GestorIA-Servidor-0.5.34.zip",
+    "sha256": "6a679c249054a2a511bac9b2303569c2a1d81623674b9d2a8dbacb1d4a73d84e",
+    "tamanho": 88584446,
+    "changelog": "SPED: Simples e MEI mostram a dispensa da EFD e ficam so com o inventario",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "006076a",
-    "data": "2026-10-13T03:16:03.856Z"
+    "commit": "9146ba7",
+    "data": "2026-10-13T03:27:55.216Z"
   }
 }
