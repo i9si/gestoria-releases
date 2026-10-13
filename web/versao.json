@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.24",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.24/GestorIA-Servidor-0.5.24.zip",
-    "sha256": "73976621df9987190cd7e049d885110c3c5559bb19aa217227d01275d574b283",
-    "tamanho": 83377815,
-    "changelog": "Enviar o SPED ao portal do contador cadastra a empresa la antes, sem ligar o envio das notas",
+    "versao": "0.5.25",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.25/GestorIA-Servidor-0.5.25.zip",
+    "sha256": "bc4c8eff1c37a8f9d2ae4c0e96d325b0b953c3c7d29004a2f02c671b8baadc60",
+    "tamanho": 88579875,
+    "changelog": "Enviar ao Conti9 manda tambem o pacote do mes por e-mail ao contador: SPED, XML do mes e relatorios de saidas, entradas e CT-e em PDF",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "6c4226c",
-    "data": "2026-10-12T21:27:11.668Z"
+    "commit": "c394817",
+    "data": "2026-10-13T00:10:46.028Z"
   }
 }
