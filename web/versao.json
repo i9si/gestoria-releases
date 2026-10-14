@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.41",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.41/GestorIA-Servidor-0.5.41.zip",
-    "sha256": "af542df9ded5dc0e207faa8df18891e83d4401610c516943f68e885d33557c91",
-    "tamanho": 88596291,
-    "changelog": "CT-e pela planilha do escritorio que so traz o numero (sem a chave): marca o CT-e baixado da SEFAZ com o mesmo numero e valor; a lista de importacoes da Central traz o perfil.",
+    "versao": "0.5.42",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.42/GestorIA-Servidor-0.5.42.zip",
+    "sha256": "3fdadf6a79ced446420ae574739f1414e1d72048f1962349203c1ead75e1d62c",
+    "tamanho": 88599334,
+    "changelog": "Imposto de fronteira: extrato sem a chave acha a nota nas da SEFAZ e guarda o XML sem entrada no estoque, para o E111/E113 sair com o valor cheio; botao Dispensar (com motivo) para nota que nao e da loja.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "6fa32d6",
-    "data": "2026-10-14T03:27:25.478Z"
+    "commit": "3c9375c",
+    "data": "2026-10-14T03:56:46.475Z"
   }
 }
