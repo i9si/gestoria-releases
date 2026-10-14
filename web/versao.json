@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.51",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.51/GestorIA-Servidor-0.5.51.zip",
-    "sha256": "c21a288f0e5ca53d7801bc0b68435fa2c08d3a6562e466d739f0389e31ff0446",
-    "tamanho": 88608498,
-    "changelog": "Imposto de fronteira: enviar os XMLs das notas ou digitar a chave do DANFE; a nota entra so no SPED (E111/E113), sem entrada no estoque.",
+    "versao": "0.5.52",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.52/GestorIA-Servidor-0.5.52.zip",
+    "sha256": "8654f005ecf43f9118708b1356def8849b59111a81a61cf0a19c8cccca4b7b04",
+    "tamanho": 88608928,
+    "changelog": "Cupom na impressora termica: o cupom curto (um item) nao sai mais pequeno no meio de uma folha deitada. SPED: o erro do Gerar arquivo aparece junto do botao. Telas fiscais mais largas (fretes CT-e sem cortar a ultima coluna). Ajuda: videos Lancar a nota de compra, no computador e no celular.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "e57936a",
-    "data": "2026-10-14T15:11:11.694Z"
+    "commit": "8077bbb",
+    "data": "2026-10-14T18:12:03.250Z"
   }
 }
