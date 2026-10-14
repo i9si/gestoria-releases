@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.54",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.54/GestorIA-Servidor-0.5.54.zip",
-    "sha256": "cb59699e4f96bff527469f2465f3a63ab5061aa0c7ed88608a02121f8225ecaa",
-    "tamanho": 88615774,
-    "changelog": "SPED: opcao do contador para creditar o ICMS da compra sem o frete cobrado na nota. Pre-venda e caixa: clicar no numero da quantidade abre o campo para digitar (aceita fracionado, ex.: 21,2 m).",
+    "versao": "0.5.55",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.55/GestorIA-Servidor-0.5.55.zip",
+    "sha256": "1d7bacd838fdd7026bb91e1485aaf2d66c072f8a548f7776a028f71838e85973",
+    "tamanho": 88616572,
+    "changelog": "Pre-venda: botao Imprimir, cupom de 80 mm sem valor fiscal com itens, quantidades, desconto, total e a forma combinada, para o cliente levar ao caixa.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "595fa7a",
-    "data": "2026-10-14T20:54:34.784Z"
+    "commit": "32c709e",
+    "data": "2026-10-14T21:26:11.446Z"
   }
 }
