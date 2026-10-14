@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.38",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.38/GestorIA-Servidor-0.5.38.zip",
-    "sha256": "cb1d0e04efba88416c6846bb8f3d0a2077adb0c433606d575144aa29a22b80f1",
-    "tamanho": 88594641,
-    "changelog": "Entrada de NF-e lembra o vinculo por faixa de grade (P/GG separado de G1/G3); SPED: item de entrada sem produto ligado sai no C170 como uso e consumo (o PVA exigia); 1601: cartao sem credenciadora no XML vai pelo banco da configuracao; XML do mes sem nota avisa em vez de baixar zip vazio.",
+    "versao": "0.5.39",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.39/GestorIA-Servidor-0.5.39.zip",
+    "sha256": "093dc4000f3f64956bddac81811b37b44a3be80e598bd4d3ec110d05a1b153e8",
+    "tamanho": 88595198,
+    "changelog": "E-mail ao contador diz a unidade: assunto com Matriz/Filial, deposito e CNPJ; corpo com razao social, CNPJ e IE, endereco e competencia.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "b6f9740",
-    "data": "2026-10-14T01:46:12.347Z"
+    "commit": "42da7c9",
+    "data": "2026-10-14T02:19:16.789Z"
   }
 }
