@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.47",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.47/GestorIA-Servidor-0.5.47.zip",
-    "sha256": "86208ace53d98e84eb4cb74d645f66649dd2f13141c9c57a544a8441ca687751",
-    "tamanho": 88603581,
-    "changelog": "Entrada de NF-e: 'Criar tudo' liga as linhas ao produto que ja tem a mesma referencia e inclui na grade os tamanhos e cores que faltam.",
+    "versao": "0.5.48",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.48/GestorIA-Servidor-0.5.48.zip",
+    "sha256": "b044ac4bfd87634cc40bf771d139c73485c6368f1a812d36cbf21ad072d7ac1d",
+    "tamanho": 88603639,
+    "changelog": "Ajuda remota: a tela do suporte mostra as listas com animacao de entrada (antes ficavam em branco na reproducao).",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "ad41df8",
-    "data": "2026-10-14T13:46:32.135Z"
+    "commit": "e2166c1",
+    "data": "2026-10-14T14:04:42.266Z"
   }
 }
