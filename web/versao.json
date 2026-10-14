@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.50",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.50/GestorIA-Servidor-0.5.50.zip",
-    "sha256": "30af1b01a1074c1aaf1d22f3e5c7434867ff91ba73f041e834820b5375d2d4dd",
-    "tamanho": 88606739,
-    "changelog": "SPED 1601: pagamento do sistema antigo sem o codigo SEFAZ usa o nome da forma (transferencia, PIX, deposito) para entrar no registro.",
+    "versao": "0.5.51",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.51/GestorIA-Servidor-0.5.51.zip",
+    "sha256": "c21a288f0e5ca53d7801bc0b68435fa2c08d3a6562e466d739f0389e31ff0446",
+    "tamanho": 88608498,
+    "changelog": "Imposto de fronteira: enviar os XMLs das notas ou digitar a chave do DANFE; a nota entra so no SPED (E111/E113), sem entrada no estoque.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "084cd00",
-    "data": "2026-10-14T15:02:48.961Z"
+    "commit": "e57936a",
+    "data": "2026-10-14T15:11:11.694Z"
   }
 }
