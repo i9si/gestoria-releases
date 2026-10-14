@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.53",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.53/GestorIA-Servidor-0.5.53.zip",
-    "sha256": "29bdcd5aaa7520f4bf99602218128ca294167c3a377b2f37c9d303117428588a",
-    "tamanho": 88615188,
-    "changelog": "Devolucao de venda: o acrescimo da venda volta junto com os itens (antes voltava so o valor dos produtos). SPED: a EFD ICMS/IPI passa a ser validada no PVA da Receita logo depois de gerar; arquivo com erro nao vai ao contador (liga quando o validador estiver no servidor).",
+    "versao": "0.5.54",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.54/GestorIA-Servidor-0.5.54.zip",
+    "sha256": "cb59699e4f96bff527469f2465f3a63ab5061aa0c7ed88608a02121f8225ecaa",
+    "tamanho": 88615774,
+    "changelog": "SPED: opcao do contador para creditar o ICMS da compra sem o frete cobrado na nota. Pre-venda e caixa: clicar no numero da quantidade abre o campo para digitar (aceita fracionado, ex.: 21,2 m).",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "85e4be4",
-    "data": "2026-10-14T20:41:17.818Z"
+    "commit": "595fa7a",
+    "data": "2026-10-14T20:54:34.784Z"
   }
 }
