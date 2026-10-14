@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.46",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.46/GestorIA-Servidor-0.5.46.zip",
-    "sha256": "a7c3bbc8f4a87688b6e45f6e20b4f9c38b409217585f81dff89e867fa1cf317f",
-    "tamanho": 88602264,
-    "changelog": "Cadastro de produto com grade: a variacao de antes da grade (inativa) nao aparece mais como combinacao nem trava o salvar.",
+    "versao": "0.5.47",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.47/GestorIA-Servidor-0.5.47.zip",
+    "sha256": "86208ace53d98e84eb4cb74d645f66649dd2f13141c9c57a544a8441ca687751",
+    "tamanho": 88603581,
+    "changelog": "Entrada de NF-e: 'Criar tudo' liga as linhas ao produto que ja tem a mesma referencia e inclui na grade os tamanhos e cores que faltam.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "5707419",
-    "data": "2026-10-14T13:32:04.684Z"
+    "commit": "ad41df8",
+    "data": "2026-10-14T13:46:32.135Z"
   }
 }
