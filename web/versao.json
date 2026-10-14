@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.40",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.40/GestorIA-Servidor-0.5.40.zip",
-    "sha256": "51c866c3469a907158ccf3da75f24e88d7dd992a9febd73b1e4b31f883521c42",
-    "tamanho": 88595726,
-    "changelog": "Importacao: depois do Genesis aplicado, outro banco do mesmo cliente nao importa Produtos (evita produto e estoque em dobro); a IA ja propoe sem Produtos e a tela explica.",
+    "versao": "0.5.41",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.41/GestorIA-Servidor-0.5.41.zip",
+    "sha256": "af542df9ded5dc0e207faa8df18891e83d4401610c516943f68e885d33557c91",
+    "tamanho": 88596291,
+    "changelog": "CT-e pela planilha do escritorio que so traz o numero (sem a chave): marca o CT-e baixado da SEFAZ com o mesmo numero e valor; a lista de importacoes da Central traz o perfil.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "bf0bc3f",
-    "data": "2026-10-14T03:13:40.889Z"
+    "commit": "6fa32d6",
+    "data": "2026-10-14T03:27:25.478Z"
   }
 }
