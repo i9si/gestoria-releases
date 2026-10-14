@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.44",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.44/GestorIA-Servidor-0.5.44.zip",
-    "sha256": "1a64cafd8304b3288b9a30a6b7229241c58d3186859e182fa3d26fb130c1e463",
-    "tamanho": 88600261,
-    "changelog": "Cadastro de produto: ligar a grade num produto que ja tem estoque nao trava mais; a variacao antiga fica inativa e o saldo passa para os tamanhos e cores informados.",
+    "versao": "0.5.45",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.45/GestorIA-Servidor-0.5.45.zip",
+    "sha256": "7ed32fe45aeff1b5f385f70f1c11167e5425e38477f91ad7e361ab42341804ba",
+    "tamanho": 88602136,
+    "changelog": "Grupo tributario com CST e reducao proprios para fora do estado; SPED: CST 20 sem reducao sai 00; grade com botao Inativar por combinacao; lista de produtos mostra o codigo de barras.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "6481332",
-    "data": "2026-10-14T12:35:22.183Z"
+    "commit": "22e9a61",
+    "data": "2026-10-14T13:00:16.046Z"
   }
 }
