@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.55",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.55/GestorIA-Servidor-0.5.55.zip",
-    "sha256": "1d7bacd838fdd7026bb91e1485aaf2d66c072f8a548f7776a028f71838e85973",
-    "tamanho": 88616572,
-    "changelog": "Pre-venda: botao Imprimir, cupom de 80 mm sem valor fiscal com itens, quantidades, desconto, total e a forma combinada, para o cliente levar ao caixa.",
+    "versao": "0.5.56",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.56/GestorIA-Servidor-0.5.56.zip",
+    "sha256": "6168b4519db7ad1c8cddb5771cb0df41f28b29b528d6910ebea6128ecb244bfe",
+    "tamanho": 88617692,
+    "changelog": "Relatorio de inventario do mes: o ICMS interno antigo de PE (18%) que veio do sistema antigo sai com a aliquota de hoje (20,5%), com o valor refeito.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "32c709e",
-    "data": "2026-10-14T21:26:11.446Z"
+    "commit": "db8ade8",
+    "data": "2026-10-14T22:06:09.216Z"
   }
 }
