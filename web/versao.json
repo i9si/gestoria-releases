@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.43",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.43/GestorIA-Servidor-0.5.43.zip",
-    "sha256": "812f1f3f9a3bd6badb97f255560e00e69688720fcf89d3c6f3923e12538ea520",
-    "tamanho": 88599545,
-    "changelog": "Notas emitidas para a loja (DF-e): quando a SEFAZ responde 'nenhum documento' pulando posicoes, a leitura segue no mesmo ciclo em vez de esperar 1 hora a cada passo.",
+    "versao": "0.5.44",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.44/GestorIA-Servidor-0.5.44.zip",
+    "sha256": "1a64cafd8304b3288b9a30a6b7229241c58d3186859e182fa3d26fb130c1e463",
+    "tamanho": 88600261,
+    "changelog": "Cadastro de produto: ligar a grade num produto que ja tem estoque nao trava mais; a variacao antiga fica inativa e o saldo passa para os tamanhos e cores informados.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "59d9943",
-    "data": "2026-10-14T12:21:16.098Z"
+    "commit": "6481332",
+    "data": "2026-10-14T12:35:22.183Z"
   }
 }
