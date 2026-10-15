@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.61",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.61/GestorIA-Servidor-0.5.61.zip",
-    "sha256": "2c23181c14cc94749c9f469314d50959cf1c5a3eaeddf40b5e3099d3ced29646",
-    "tamanho": 88654715,
-    "changelog": "Vend9 ligado ao GestorIA: o pedido do vendedor cai na pre-venda e o GestorIA fatura (liga pela Central). Cadastros > Conferir NCM: produtos sem NCM com a sugestao ja escolhida, salvos em lote. Sugestao de NCM certa para roupa, calcado e acessorio.",
+    "versao": "0.5.62",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.62/GestorIA-Servidor-0.5.62.zip",
+    "sha256": "94e3547db2be6596db9c6fb53c954949d8e59d880613a97ff8bf6a6d4762e3b8",
+    "tamanho": 88662669,
+    "changelog": "Conferencia do CMV: quantidade item a item (inicial + entradas - saidas com nota = final) e recalculo do custo do estoque final na filial sem venda, com desfazer e auditoria; CMV de ate R$ 1,00 por arredondamento nao alerta",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "5de6a01",
-    "data": "2026-10-15T10:42:37.587Z"
+    "commit": "1e7ca26",
+    "data": "2026-10-15T13:25:33.995Z"
   }
 }
