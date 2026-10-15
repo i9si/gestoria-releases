@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.59",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.59/GestorIA-Servidor-0.5.59.zip",
-    "sha256": "843ec969384068f496f7bb56712fd7af44c33cbac4e88638b5b537c824bc9418",
-    "tamanho": 88629917,
-    "changelog": "Chat com o suporte da Atendi9 dentro do sistema: botao verde no canto, assuntos sugeridos, resposta na hora e ajuda remota pela conversa",
+    "versao": "0.5.60",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.60/GestorIA-Servidor-0.5.60.zip",
+    "sha256": "e8525d91665f235c5ffd8e529f159c3e7bebd9500397d6678f6ee85a8e991a3f",
+    "tamanho": 88629993,
+    "changelog": "Chat do suporte: as janelas do sistema abrem por cima da conversa, resposta em ate 15 s com a conversa fechada e a ajuda remota no celular sem a faixa cobrindo a conversa",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "28ebd45",
-    "data": "2026-10-15T00:57:20.477Z"
+    "commit": "c6d5409",
+    "data": "2026-10-15T01:50:14.536Z"
   }
 }
