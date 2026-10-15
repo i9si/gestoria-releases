@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.78",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.78/GestorIA-Servidor-0.5.78.zip",
-    "sha256": "3ffefbbda9bc23272f24780d465d4b56b01a13162ca6c63ebea01de6223805e6",
-    "tamanho": 88718343,
-    "changelog": "Ajuda: video Troca de mercadoria; caixa: Credito em loja nao mostra os campos de cartao",
+    "versao": "0.5.79",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.79/GestorIA-Servidor-0.5.79.zip",
+    "sha256": "1d19a874a7782557e994a13f5534d1d9b9b71d4632a0a102296cae1179a01074",
+    "tamanho": 88718404,
+    "changelog": "Ajuda: a busca tambem acha os videos",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "66dbe5a",
-    "data": "2026-10-15T20:45:00.680Z"
+    "commit": "af4a247",
+    "data": "2026-10-15T20:59:33.914Z"
   }
 }
