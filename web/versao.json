@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.64",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.64/GestorIA-Servidor-0.5.64.zip",
-    "sha256": "a1678b11536b59bf94011d9ac5b263848eb833c8c874c1281d6ccad533203b75",
-    "tamanho": 88680780,
-    "changelog": "Importacao do Genesis traz os clientes de cada banco para a filial dele (CPF/CNPJ conferido, IBGE da cidade, sem duplicar ao reimportar)",
+    "versao": "0.5.65",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.65/GestorIA-Servidor-0.5.65.zip",
+    "sha256": "4f7a616152c0740841a8a0c60d140fc326a9fa853c619cd4926dfb433173701b",
+    "tamanho": 88680938,
+    "changelog": "Importacao do Genesis: clientes com o acento certo (texto gravado em dobro no Genesis e corrigido, como nos produtos)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "92c26f5",
-    "data": "2026-10-15T15:00:41.245Z"
+    "commit": "f9f353c",
+    "data": "2026-10-15T15:12:54.152Z"
   }
 }
