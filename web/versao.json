@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.62",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.62/GestorIA-Servidor-0.5.62.zip",
-    "sha256": "94e3547db2be6596db9c6fb53c954949d8e59d880613a97ff8bf6a6d4762e3b8",
-    "tamanho": 88662669,
-    "changelog": "Conferencia do CMV: quantidade item a item (inicial + entradas - saidas com nota = final) e recalculo do custo do estoque final na filial sem venda, com desfazer e auditoria; CMV de ate R$ 1,00 por arredondamento nao alerta",
+    "versao": "0.5.63",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.63/GestorIA-Servidor-0.5.63.zip",
+    "sha256": "3cc55dcd034ad1be1771c78ec7bfeca33d1d102f7d435093060babf86f5f84be",
+    "tamanho": 88677744,
+    "changelog": "Assistente de IA: importar o pedido do cliente (PDF, foto, planilha ou texto) cadastra cliente e produtos e monta a pre-venda, com o plano antes de gravar; importar lista de clientes em planilha (todas as linhas, sem duplicar, IBGE pela cidade e pelo CEP); campo de texto maior",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "1e7ca26",
-    "data": "2026-10-15T13:25:33.995Z"
+    "commit": "ddabc6f",
+    "data": "2026-10-15T14:45:43.110Z"
   }
 }
