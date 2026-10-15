@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.66",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.66/GestorIA-Servidor-0.5.66.zip",
-    "sha256": "c95972199b6c644a38c063c730f64aeeeffe02b12d2acb4ba5112756325412ac",
-    "tamanho": 88681034,
-    "changelog": "Importacao do Genesis: clientes e produtos com o acento certo, inclusive quando o texto foi gravado em dobro",
+    "versao": "0.5.67",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.67/GestorIA-Servidor-0.5.67.zip",
+    "sha256": "718b3278be2e73f8ff72166dcb0f8ede8eb9cc8c9f2bc1f14b2c509ac67d45b6",
+    "tamanho": 88684593,
+    "changelog": "Assistente de IA: importar lista de produtos em planilha (consulta de estoque): o que a loja ja tem fica de fora, estoque negativo entra zerado, sem NCM vai para Conferir NCM. Importacao de dados: acento gravado em dobro corrigido",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "620d825",
-    "data": "2026-10-15T15:22:55.434Z"
+    "commit": "24fafaa",
+    "data": "2026-10-15T15:34:58.419Z"
   }
 }
