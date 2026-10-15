@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.77",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.77/GestorIA-Servidor-0.5.77.zip",
-    "sha256": "3ad921763d6aef0793da35bd34dbf366d9d4288d85bb6d4454f9f71222f6d43a",
-    "tamanho": 88716685,
-    "changelog": "SPED: ao baixar a EFD ICMS/IPI vem junto o PDF da apuracao do ICMS",
+    "versao": "0.5.78",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.78/GestorIA-Servidor-0.5.78.zip",
+    "sha256": "3ffefbbda9bc23272f24780d465d4b56b01a13162ca6c63ebea01de6223805e6",
+    "tamanho": 88718343,
+    "changelog": "Ajuda: video Troca de mercadoria; caixa: Credito em loja nao mostra os campos de cartao",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "03d39f0",
-    "data": "2026-10-15T19:55:36.071Z"
+    "commit": "66dbe5a",
+    "data": "2026-10-15T20:45:00.680Z"
   }
 }
