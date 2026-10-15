@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.63",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.63/GestorIA-Servidor-0.5.63.zip",
-    "sha256": "3cc55dcd034ad1be1771c78ec7bfeca33d1d102f7d435093060babf86f5f84be",
-    "tamanho": 88677744,
-    "changelog": "Assistente de IA: importar o pedido do cliente (PDF, foto, planilha ou texto) cadastra cliente e produtos e monta a pre-venda, com o plano antes de gravar; importar lista de clientes em planilha (todas as linhas, sem duplicar, IBGE pela cidade e pelo CEP); campo de texto maior",
+    "versao": "0.5.64",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.64/GestorIA-Servidor-0.5.64.zip",
+    "sha256": "a1678b11536b59bf94011d9ac5b263848eb833c8c874c1281d6ccad533203b75",
+    "tamanho": 88680780,
+    "changelog": "Importacao do Genesis traz os clientes de cada banco para a filial dele (CPF/CNPJ conferido, IBGE da cidade, sem duplicar ao reimportar)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "ddabc6f",
-    "data": "2026-10-15T14:45:43.110Z"
+    "commit": "92c26f5",
+    "data": "2026-10-15T15:00:41.245Z"
   }
 }
