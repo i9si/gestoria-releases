@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.72",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.72/GestorIA-Servidor-0.5.72.zip",
-    "sha256": "c6ce082005db512386458fef2e105d097fde76fe11c65d16ca09899b832f0ceb",
-    "tamanho": 88709455,
-    "changelog": "Notas emitidas para a loja: erro da SEFAZ em frase legivel (403 = certificado recusado) em vez do HTML cru",
+    "versao": "0.5.73",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.73/GestorIA-Servidor-0.5.73.zip",
+    "sha256": "8b0ed1c659381f8d48a235154632772d693e712f8254c54cbee4f7ffbd13a36e",
+    "tamanho": 88712897,
+    "changelog": "E-mail do SPED ao contador leva junto o PDF da apuracao do ICMS (como o PVA imprime)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "a477a23",
-    "data": "2026-10-15T18:05:14.259Z"
+    "commit": "d5180f8",
+    "data": "2026-10-15T18:40:45.279Z"
   }
 }
