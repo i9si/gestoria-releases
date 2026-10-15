@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.58",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.58/GestorIA-Servidor-0.5.58.zip",
-    "sha256": "ac29e1af9a1056f93135bc899369bac48cba5573a10cd23efa9dba6f882b0dd3",
-    "tamanho": 88624270,
-    "changelog": "Conferencia do CMV do mes (estoque inicial + entradas com nota - estoque final contra as vendas) no SPED e antes de mandar os arquivos do mes a contabilidade, por filial ou de todas",
+    "versao": "0.5.59",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.59/GestorIA-Servidor-0.5.59.zip",
+    "sha256": "843ec969384068f496f7bb56712fd7af44c33cbac4e88638b5b537c824bc9418",
+    "tamanho": 88629917,
+    "changelog": "Chat com o suporte da Atendi9 dentro do sistema: botao verde no canto, assuntos sugeridos, resposta na hora e ajuda remota pela conversa",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "3bc8fba",
-    "data": "2026-10-15T00:24:38.317Z"
+    "commit": "28ebd45",
+    "data": "2026-10-15T00:57:20.477Z"
   }
 }
