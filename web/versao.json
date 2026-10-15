@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.67",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.67/GestorIA-Servidor-0.5.67.zip",
-    "sha256": "718b3278be2e73f8ff72166dcb0f8ede8eb9cc8c9f2bc1f14b2c509ac67d45b6",
-    "tamanho": 88684593,
-    "changelog": "Assistente de IA: importar lista de produtos em planilha (consulta de estoque): o que a loja ja tem fica de fora, estoque negativo entra zerado, sem NCM vai para Conferir NCM. Importacao de dados: acento gravado em dobro corrigido",
+    "versao": "0.5.68",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.68/GestorIA-Servidor-0.5.68.zip",
+    "sha256": "2705dcca84f466bc3103337a61d5db7914e976ea8e062757bcb931bc0f4f5b54",
+    "tamanho": 88696429,
+    "changelog": "Ajuda: legenda nos videos, velocidade, voltar para todos os videos e a opcao de nao abrir videos sozinho no rodape. Assistente de IA com o campo de texto maior",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "24fafaa",
-    "data": "2026-10-15T15:34:58.419Z"
+    "commit": "c3729ec",
+    "data": "2026-10-15T16:00:53.398Z"
   }
 }
