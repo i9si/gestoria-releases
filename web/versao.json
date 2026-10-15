@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.74",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.74/GestorIA-Servidor-0.5.74.zip",
-    "sha256": "f8d3a5ac592c7cff4407fbbbf4285bb209048da6d2ebe03166d098a4a306c624",
-    "tamanho": 88714625,
-    "changelog": "Venda: botao Trocar por NF-e (cancela a NFC-e e emite a NF-e da mesma venda, conferindo o cadastro do cliente antes)",
+    "versao": "0.5.75",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.75/GestorIA-Servidor-0.5.75.zip",
+    "sha256": "598b22af47556cdce551d41b253209db2523abfe6f915e10a5584b859013978b",
+    "tamanho": 88715224,
+    "changelog": "Trocar por NF-e: opcao de emitir a NF-e mantendo a NFC-e quando ja passou do prazo de cancelamento",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "36eb709",
-    "data": "2026-10-15T18:50:42.002Z"
+    "commit": "38237f5",
+    "data": "2026-10-15T19:13:48.236Z"
   }
 }
