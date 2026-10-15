@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.70",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.70/GestorIA-Servidor-0.5.70.zip",
-    "sha256": "6bf60e3c053cafeaa3eef334f100b5f9012c473b1fc1d5483be20ce4125f930a",
-    "tamanho": 88705617,
-    "changelog": "NF-e por e-mail: a nota autorizada vai sozinha ao cliente que tem e-mail (DANFE em PDF e XML) e o botao E-mail ao lado do DANFE manda para qualquer endereco. Conferencia do CMV: na filial, ajustar o custo do estoque final mesmo com a quantidade sem fechar",
+    "versao": "0.5.71",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.71/GestorIA-Servidor-0.5.71.zip",
+    "sha256": "5eb9f00b38bf7a14c3fd77e1a274bbe7c584b7c078aa3af881dabaa74cff6938",
+    "tamanho": 88708841,
+    "changelog": "Busca de produto: % lista todos em ordem alfabetica (100 por vez), janela maior com codigo e referencia; busca sem acento tambem em maiuscula; Assistente: ao importar lista de produtos a IA sugere o NCM de quem vem sem (conferido na tabela oficial)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "72be69f",
-    "data": "2026-10-15T17:26:53.183Z"
+    "commit": "52ebffe",
+    "data": "2026-10-15T17:54:43.710Z"
   }
 }
