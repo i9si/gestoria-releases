@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.73",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.73/GestorIA-Servidor-0.5.73.zip",
-    "sha256": "8b0ed1c659381f8d48a235154632772d693e712f8254c54cbee4f7ffbd13a36e",
-    "tamanho": 88712897,
-    "changelog": "E-mail do SPED ao contador leva junto o PDF da apuracao do ICMS (como o PVA imprime)",
+    "versao": "0.5.74",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.74/GestorIA-Servidor-0.5.74.zip",
+    "sha256": "f8d3a5ac592c7cff4407fbbbf4285bb209048da6d2ebe03166d098a4a306c624",
+    "tamanho": 88714625,
+    "changelog": "Venda: botao Trocar por NF-e (cancela a NFC-e e emite a NF-e da mesma venda, conferindo o cadastro do cliente antes)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "d5180f8",
-    "data": "2026-10-15T18:40:45.279Z"
+    "commit": "36eb709",
+    "data": "2026-10-15T18:50:42.002Z"
   }
 }
