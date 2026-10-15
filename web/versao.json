@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.60",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.60/GestorIA-Servidor-0.5.60.zip",
-    "sha256": "e8525d91665f235c5ffd8e529f159c3e7bebd9500397d6678f6ee85a8e991a3f",
-    "tamanho": 88629993,
-    "changelog": "Chat do suporte: as janelas do sistema abrem por cima da conversa, resposta em ate 15 s com a conversa fechada e a ajuda remota no celular sem a faixa cobrindo a conversa",
+    "versao": "0.5.61",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.61/GestorIA-Servidor-0.5.61.zip",
+    "sha256": "2c23181c14cc94749c9f469314d50959cf1c5a3eaeddf40b5e3099d3ced29646",
+    "tamanho": 88654715,
+    "changelog": "Vend9 ligado ao GestorIA: o pedido do vendedor cai na pre-venda e o GestorIA fatura (liga pela Central). Cadastros > Conferir NCM: produtos sem NCM com a sugestao ja escolhida, salvos em lote. Sugestao de NCM certa para roupa, calcado e acessorio.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "c6d5409",
-    "data": "2026-10-15T01:50:14.536Z"
+    "commit": "5de6a01",
+    "data": "2026-10-15T10:42:37.587Z"
   }
 }
