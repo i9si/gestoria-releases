@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.69",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.69/GestorIA-Servidor-0.5.69.zip",
-    "sha256": "bb1c1a296b53a6948703a16ef68bf79e198119bc815b8d97cad6a5fd7bda9203",
-    "tamanho": 88697206,
-    "changelog": "Assistente de IA: ao anexar, pergunta o que fazer (criar a pre-venda do pedido, importar lista); atalhos com lacunas para preencher, sem apagar o texto; Abrir o plano que ficou aguardando",
+    "versao": "0.5.70",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.70/GestorIA-Servidor-0.5.70.zip",
+    "sha256": "6bf60e3c053cafeaa3eef334f100b5f9012c473b1fc1d5483be20ce4125f930a",
+    "tamanho": 88705617,
+    "changelog": "NF-e por e-mail: a nota autorizada vai sozinha ao cliente que tem e-mail (DANFE em PDF e XML) e o botao E-mail ao lado do DANFE manda para qualquer endereco. Conferencia do CMV: na filial, ajustar o custo do estoque final mesmo com a quantidade sem fechar",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "47c658b",
-    "data": "2026-10-15T17:01:48.118Z"
+    "commit": "72be69f",
+    "data": "2026-10-15T17:26:53.183Z"
   }
 }
