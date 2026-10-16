@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.89",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.89/GestorIA-Servidor-0.5.89.zip",
-    "sha256": "ff593ccb93ab493181f296165583f5603a0f0c0ae5baa1839d24b273f87ac87e",
-    "tamanho": 88766594,
-    "changelog": "Tela Inicio: atalhos com icones, agrupados por area",
+    "versao": "0.5.90",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.90/GestorIA-Servidor-0.5.90.zip",
+    "sha256": "666d2bae71e520c1331ce03a9ce65d97028a02ca6d022bc9a08734bdbb6471bd",
+    "tamanho": 88767164,
+    "changelog": "Caixa: tela baixa (notebook) nao corta mais os atalhos do caixa livre",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "b7fa0d4",
-    "data": "2026-10-16T13:21:36.062Z"
+    "commit": "1ec7c98",
+    "data": "2026-10-16T13:32:34.073Z"
   }
 }
