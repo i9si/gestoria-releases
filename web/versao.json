@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.111",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.111/GestorIA-Servidor-0.5.111.zip",
-    "sha256": "f5cc9df6479837e3165db4eb1156e551e35552af2ad5041f3dafbaf849fbdbed",
-    "tamanho": 88818376,
-    "changelog": "Vale-troca: credito da devolucao com codigo",
+    "versao": "0.5.112",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.112/GestorIA-Servidor-0.5.112.zip",
+    "sha256": "c18ac530bd66586acc7f33ddb047a984e067416f8c21c6734e134866d452d3c7",
+    "tamanho": 88821188,
+    "changelog": "Previa do DANFE antes de enviar; vale-troca no DANFCe",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "aee6210",
-    "data": "2026-10-16T21:01:16.508Z"
+    "commit": "cff17a0",
+    "data": "2026-10-16T21:20:22.473Z"
   }
 }
