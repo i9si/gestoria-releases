@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.86",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.86/GestorIA-Servidor-0.5.86.zip",
-    "sha256": "c8f301ded2f31b58d035d6a61fb6e2fc9a404807696fdcbfdc7444b105e36c44",
-    "tamanho": 88758491,
-    "changelog": "Oficina: abrir OS nova pela tela; cupom da NFC-e so com as pecas quando a venda tem servico",
+    "versao": "0.5.87",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.87/GestorIA-Servidor-0.5.87.zip",
+    "sha256": "0914f489b3c60873f684bb619222e540fcf0e904b8cc252424f0e804c457f2f2",
+    "tamanho": 88763499,
+    "changelog": "Pre-venda: pedido em folha A4 (pecas e servicos separados) ou cupom; CEP de cidade pequena com IBGE; video da Oficina na Ajuda",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "cefd590",
-    "data": "2026-10-16T11:53:45.919Z"
+    "commit": "aa936dc",
+    "data": "2026-10-16T12:46:50.414Z"
   }
 }
