@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.112",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.112/GestorIA-Servidor-0.5.112.zip",
-    "sha256": "c18ac530bd66586acc7f33ddb047a984e067416f8c21c6734e134866d452d3c7",
-    "tamanho": 88821188,
-    "changelog": "Previa do DANFE antes de enviar; vale-troca no DANFCe",
+    "versao": "0.5.113",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.113/GestorIA-Servidor-0.5.113.zip",
+    "sha256": "e77f6a9fa259e953201a74ba98de29bdf2dc44cfce887469b9e6b8f37a298cb8",
+    "tamanho": 88821442,
+    "changelog": "Logo da loja no DANFE da NF-e",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "cff17a0",
-    "data": "2026-10-16T21:20:22.473Z"
+    "commit": "3d03583",
+    "data": "2026-10-16T21:49:13.998Z"
   }
 }
