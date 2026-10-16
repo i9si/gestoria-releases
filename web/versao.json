@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.92",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.92/GestorIA-Servidor-0.5.92.zip",
-    "sha256": "ade0581851a4dd5a82c766c3af7ca7cde6cf6d694de35fb2de9da2bf78c384d3",
-    "tamanho": 88774742,
-    "changelog": "Relatorios: Inventario do dia (foto do estoque gravada); tributo aproximado para NCM fora da tabela do IBPT",
+    "versao": "0.5.93",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.93/GestorIA-Servidor-0.5.93.zip",
+    "sha256": "f1e0a3cfc2db79b506f2039647a15ff07ce9237115d47049b64183e22b4c5249",
+    "tamanho": 88776579,
+    "changelog": "Ajuda: video do Inventario do dia",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "0f7fe10",
-    "data": "2026-10-16T14:27:56.295Z"
+    "commit": "b372a1b",
+    "data": "2026-10-16T14:42:54.284Z"
   }
 }
