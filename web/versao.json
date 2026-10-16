@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.99",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.99/GestorIA-Servidor-0.5.99.zip",
-    "sha256": "4ba80c42833c1bf5495276dfb96b31a2579d293a6c686b4cc4d74945914c3dbf",
-    "tamanho": 88784197,
-    "changelog": "Oficina: busca de servico corrigida; parametro Permitir vender sem estoque na aba Estoque",
+    "versao": "0.5.100",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.100/GestorIA-Servidor-0.5.100.zip",
+    "sha256": "f32fd6573b5251581d9a196e29e65728527d40ab6e60ca759945b3c129917725",
+    "tamanho": 88811410,
+    "changelog": "OS impressa (A4 e cupom), comprovante de servicos no caixa, preco alteravel na pre-venda (parametro), codigo de barras na busca",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "64880a3",
-    "data": "2026-10-16T15:52:39.438Z"
+    "commit": "7350a5b",
+    "data": "2026-10-16T16:43:41.952Z"
   }
 }
