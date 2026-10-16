@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.98",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.98/GestorIA-Servidor-0.5.98.zip",
-    "sha256": "aabb45d6bde3203f7fdc1df5c139694fce758beff91c61703e55484f880e66cc",
-    "tamanho": 88784040,
-    "changelog": "CPF/CNPJ formatado na escolha do cliente; parametro para alterar o preco no caixa",
+    "versao": "0.5.99",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.99/GestorIA-Servidor-0.5.99.zip",
+    "sha256": "4ba80c42833c1bf5495276dfb96b31a2579d293a6c686b4cc4d74945914c3dbf",
+    "tamanho": 88784197,
+    "changelog": "Oficina: busca de servico corrigida; parametro Permitir vender sem estoque na aba Estoque",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "1506e9d",
-    "data": "2026-10-16T15:47:20.789Z"
+    "commit": "64880a3",
+    "data": "2026-10-16T15:52:39.438Z"
   }
 }
