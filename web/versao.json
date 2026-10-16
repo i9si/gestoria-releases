@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.79",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.79/GestorIA-Servidor-0.5.79.zip",
-    "sha256": "1d19a874a7782557e994a13f5534d1d9b9b71d4632a0a102296cae1179a01074",
-    "tamanho": 88718404,
-    "changelog": "Ajuda: a busca tambem acha os videos",
+    "versao": "0.5.80",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.80/GestorIA-Servidor-0.5.80.zip",
+    "sha256": "725e6473c6139265eebc079f7e60a11e35e8309fcb19a351e9be9460d8c26c3a",
+    "tamanho": 88718765,
+    "changelog": "Grupo tributario: campo Texto na nota (informacoes complementares quando o item tem beneficio, ex.: decreto da reducao de base)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "af4a247",
-    "data": "2026-10-15T20:59:33.914Z"
+    "commit": "1dfb806",
+    "data": "2026-10-16T03:11:04.276Z"
   }
 }
