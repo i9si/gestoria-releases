@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.80",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.80/GestorIA-Servidor-0.5.80.zip",
-    "sha256": "725e6473c6139265eebc079f7e60a11e35e8309fcb19a351e9be9460d8c26c3a",
-    "tamanho": 88718765,
-    "changelog": "Grupo tributario: campo Texto na nota (informacoes complementares quando o item tem beneficio, ex.: decreto da reducao de base)",
+    "versao": "0.5.81",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.81/GestorIA-Servidor-0.5.81.zip",
+    "sha256": "04443a8869546a456d999356120a515d385d094da6ccc0d9a99bf74e9eaeaecc",
+    "tamanho": 88720143,
+    "changelog": "PIS/COFINS: base sem o ICMS destacado (Tema 69 do STF), automatica no grupo tributario, com opcao de desligar",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "1dfb806",
-    "data": "2026-10-16T03:11:04.276Z"
+    "commit": "27e5e4c",
+    "data": "2026-10-16T03:39:29.308Z"
   }
 }
