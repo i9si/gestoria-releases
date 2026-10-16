@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.105",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.105/GestorIA-Servidor-0.5.105.zip",
-    "sha256": "db207c58b814ed652fc63f2dc9da8fb7ab0179ade47448bc16eb8b15e32aa83d",
-    "tamanho": 88812917,
-    "changelog": "Fechar a venda num valor (janela de quantidade); 105, vale 105",
+    "versao": "0.5.106",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.106/GestorIA-Servidor-0.5.106.zip",
+    "sha256": "7fede208deabc468774b0d19847c78d978db616ec607c6f4e79adfab6aa4a358",
+    "tamanho": 88812945,
+    "changelog": "E-mail da NF-e abre com o e-mail do cliente",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "2d33c80",
-    "data": "2026-10-16T19:21:45.076Z"
+    "commit": "7c5ace3",
+    "data": "2026-10-16T19:56:56.255Z"
   }
 }
