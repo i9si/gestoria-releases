@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.84",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.84/GestorIA-Servidor-0.5.84.zip",
-    "sha256": "28f262f64dabae337402204913389df73ef5a2fe6d9876367876c56fb464f110",
-    "tamanho": 88738766,
-    "changelog": "Parametro Bloquear venda como orcamento: toda venda sai com NFC-e ou NF-e",
+    "versao": "0.5.85",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.85/GestorIA-Servidor-0.5.85.zip",
+    "sha256": "0d33d1a486fe1ca57d3512eeb871ec767bce19965819359cde87105603534350",
+    "tamanho": 88757834,
+    "changelog": "NF-e em contingencia SVC-RS (SEFAZ do estado fora do ar) e Oficina: ordem de servico com pecas e mao de obra",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "c835ba3",
-    "data": "2026-10-16T10:21:32.207Z"
+    "commit": "2d35091",
+    "data": "2026-10-16T11:25:40.526Z"
   }
 }
