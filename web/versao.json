@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.101",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.101/GestorIA-Servidor-0.5.101.zip",
-    "sha256": "6231d493fa2ed3504c8cacd1c9cc90a56bac2c20f95dc6cc800abb1ff0d35b52",
-    "tamanho": 88811824,
-    "changelog": "Data do 1o vencimento no caixa (venda a prazo)",
+    "versao": "0.5.102",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.102/GestorIA-Servidor-0.5.102.zip",
+    "sha256": "5475527705f48e3743ba56f7fd8c5ef34ea1389713c9ca6af5f60fa8c9c4a2f9",
+    "tamanho": 88811972,
+    "changelog": "NFC-e em contingencia quando a SEFAZ demora (tempo esgotado + 217)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "0683c84",
-    "data": "2026-10-16T18:26:24.897Z"
+    "commit": "d9230c6",
+    "data": "2026-10-16T18:30:18.566Z"
   }
 }
