@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.115",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.115/GestorIA-Servidor-0.5.115.zip",
-    "sha256": "e0174f2d9315679dca177be623b783166bcbafe7afc45517125952b08e55e322",
-    "tamanho": 88823121,
-    "changelog": "Devolucao do balcao pede CPF e endereco",
+    "versao": "0.5.116",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.116/GestorIA-Servidor-0.5.116.zip",
+    "sha256": "4a4bfd84df5c7d248c6536797ce29a9e42f7b3ace242bde59d861cf3000febcf",
+    "tamanho": 88823592,
+    "changelog": "Importacao do Genesis traz o codigo de barras",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "a73441b",
-    "data": "2026-10-16T22:12:42.427Z"
+    "commit": "868e1b3",
+    "data": "2026-10-16T22:20:30.393Z"
   }
 }
