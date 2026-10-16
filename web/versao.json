@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.90",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.90/GestorIA-Servidor-0.5.90.zip",
-    "sha256": "666d2bae71e520c1331ce03a9ce65d97028a02ca6d022bc9a08734bdbb6471bd",
-    "tamanho": 88767164,
-    "changelog": "Caixa: tela baixa (notebook) nao corta mais os atalhos do caixa livre",
+    "versao": "0.5.91",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.91/GestorIA-Servidor-0.5.91.zip",
+    "sha256": "53f3d95e97914884121ea8c2488e9666b1beb05b3c5f8890cab7efbc6f553ced",
+    "tamanho": 88767547,
+    "changelog": "Busca de produto: caixa Só com estoque",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "1ec7c98",
-    "data": "2026-10-16T13:32:34.073Z"
+    "commit": "daa0bb5",
+    "data": "2026-10-16T13:37:56.931Z"
   }
 }
