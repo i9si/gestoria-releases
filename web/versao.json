@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.87",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.87/GestorIA-Servidor-0.5.87.zip",
-    "sha256": "0914f489b3c60873f684bb619222e540fcf0e904b8cc252424f0e804c457f2f2",
-    "tamanho": 88763499,
-    "changelog": "Pre-venda: pedido em folha A4 (pecas e servicos separados) ou cupom; CEP de cidade pequena com IBGE; video da Oficina na Ajuda",
+    "versao": "0.5.88",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.88/GestorIA-Servidor-0.5.88.zip",
+    "sha256": "2660ce67a804737216837b389d0bc17b74a266db3776c72f9058444f2e1fd0a0",
+    "tamanho": 88765348,
+    "changelog": "Ajuda: video da transferencia com nota para o deposito fechado",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "aa936dc",
-    "data": "2026-10-16T12:46:50.414Z"
+    "commit": "a181545",
+    "data": "2026-10-16T13:06:37.345Z"
   }
 }
