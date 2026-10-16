@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.104",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.104/GestorIA-Servidor-0.5.104.zip",
-    "sha256": "a5cd68ce9e4d03571012393e0bff32d85a16a1a953a9190351ff56452c904ac4",
-    "tamanho": 88812333,
-    "changelog": "Preco combinado na pre-venda reaberta e no caixa",
+    "versao": "0.5.105",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.105/GestorIA-Servidor-0.5.105.zip",
+    "sha256": "db207c58b814ed652fc63f2dc9da8fb7ab0179ade47448bc16eb8b15e32aa83d",
+    "tamanho": 88812917,
+    "changelog": "Fechar a venda num valor (janela de quantidade); 105, vale 105",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "76e40a5",
-    "data": "2026-10-16T18:57:19.141Z"
+    "commit": "2d33c80",
+    "data": "2026-10-16T19:21:45.076Z"
   }
 }
