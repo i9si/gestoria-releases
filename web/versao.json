@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.119",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.119/GestorIA-Servidor-0.5.119.zip",
-    "sha256": "1c156ee139105853084f87cd0711d5a30971185c01cb2d4fe61db6dbb5afa742",
-    "tamanho": 88825867,
-    "changelog": "Volumes do transporte com rotulos",
+    "versao": "0.5.120",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.120/GestorIA-Servidor-0.5.120.zip",
+    "sha256": "59df900197d132ba28ddd8ae31980e2f12ee5eb6945d37e03fed4409f3ec3c33",
+    "tamanho": 88828239,
+    "changelog": "Conferir a NF-e numa tela so (DANFE da ACBr) e transporte antes de enviar",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "85b8c53",
-    "data": "2026-10-16T23:12:00.101Z"
+    "commit": "1bab28c",
+    "data": "2026-10-16T23:30:38.991Z"
   }
 }
