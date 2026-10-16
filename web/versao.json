@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.93",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.93/GestorIA-Servidor-0.5.93.zip",
-    "sha256": "f1e0a3cfc2db79b506f2039647a15ff07ce9237115d47049b64183e22b4c5249",
-    "tamanho": 88776579,
-    "changelog": "Ajuda: video do Inventario do dia",
+    "versao": "0.5.94",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.94/GestorIA-Servidor-0.5.94.zip",
+    "sha256": "4fe111cf622178c1840f90277bd52945a49ed5258fbfe71911572dbf430133b4",
+    "tamanho": 88778887,
+    "changelog": "Inventario do dia com o CMV do mes; so estoque fiscal na loja que so vende com nota",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "b372a1b",
-    "data": "2026-10-16T14:42:54.284Z"
+    "commit": "04fdb99",
+    "data": "2026-10-16T14:55:55.507Z"
   }
 }
