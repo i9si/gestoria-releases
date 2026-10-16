@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.96",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.96/GestorIA-Servidor-0.5.96.zip",
-    "sha256": "ffea339ce1944fb4011d4ea869dd0d9187dee1304ac6a6b3b9332a4b5a5ee717",
-    "tamanho": 88782866,
-    "changelog": "CMV do inventario monta os livros do mes mesmo sem o contador cadastrado",
+    "versao": "0.5.97",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.97/GestorIA-Servidor-0.5.97.zip",
+    "sha256": "356e9f9a59dc84d729b02f7d9b1e53d27e13d9dbd7c5ffa275928bffa70c14dc",
+    "tamanho": 88782938,
+    "changelog": "Inventario/CMV: aviso de bases diferentes so quando o CMV nao fecha",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "73b0381",
-    "data": "2026-10-16T15:12:51.599Z"
+    "commit": "f3c5dfe",
+    "data": "2026-10-16T15:23:30.070Z"
   }
 }
