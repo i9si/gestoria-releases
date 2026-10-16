@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.81",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.81/GestorIA-Servidor-0.5.81.zip",
-    "sha256": "04443a8869546a456d999356120a515d385d094da6ccc0d9a99bf74e9eaeaecc",
-    "tamanho": 88720143,
-    "changelog": "PIS/COFINS: base sem o ICMS destacado (Tema 69 do STF), automatica no grupo tributario, com opcao de desligar",
+    "versao": "0.5.82",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.82/GestorIA-Servidor-0.5.82.zip",
+    "sha256": "0fd1e8d9b43c637603647e58c9ff5449d5d757d5c4aceb1e6bc902340b683f6e",
+    "tamanho": 88726843,
+    "changelog": "Transferencia com nota para deposito fechado (5905/5906) em Notas avulsas, com entrada automatica no destino",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "27e5e4c",
-    "data": "2026-10-16T03:39:29.308Z"
+    "commit": "d12fed4",
+    "data": "2026-10-16T03:55:06.741Z"
   }
 }
