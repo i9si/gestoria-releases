@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.120",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.120/GestorIA-Servidor-0.5.120.zip",
-    "sha256": "59df900197d132ba28ddd8ae31980e2f12ee5eb6945d37e03fed4409f3ec3c33",
-    "tamanho": 88828239,
-    "changelog": "Conferir a NF-e numa tela so (DANFE da ACBr) e transporte antes de enviar",
+    "versao": "0.5.121",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.121/GestorIA-Servidor-0.5.121.zip",
+    "sha256": "3d74f80c379386d9dec56f023a3d80a77f31d8682aa42e12492517c42bfc5511",
+    "tamanho": 88828266,
+    "changelog": "Transporte e volumes na janela Conferir a NF-e",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "1bab28c",
-    "data": "2026-10-16T23:30:38.991Z"
+    "commit": "b402ac9",
+    "data": "2026-10-16T23:44:21.198Z"
   }
 }
