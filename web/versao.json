@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.108",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.108/GestorIA-Servidor-0.5.108.zip",
-    "sha256": "3fee37d0a78258b93d19300e990325f8b34fd8a4415ff1e3668e8404ce44894a",
-    "tamanho": 88813892,
-    "changelog": "Busca de cliente pelo inicio do nome",
+    "versao": "0.5.109",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.109/GestorIA-Servidor-0.5.109.zip",
+    "sha256": "2d1f66881c5e20c810e43b5cb57b66ecde97759c41071fe6561d33e3775bd1d0",
+    "tamanho": 88815015,
+    "changelog": "Video curto: devolucao e troca",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "f4a10ab",
-    "data": "2026-10-16T20:15:56.834Z"
+    "commit": "5426e76",
+    "data": "2026-10-16T20:38:05.029Z"
   }
 }
