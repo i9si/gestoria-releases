@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.82",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.82/GestorIA-Servidor-0.5.82.zip",
-    "sha256": "0fd1e8d9b43c637603647e58c9ff5449d5d757d5c4aceb1e6bc902340b683f6e",
-    "tamanho": 88726843,
-    "changelog": "Transferencia com nota para deposito fechado (5905/5906) em Notas avulsas, com entrada automatica no destino",
+    "versao": "0.5.83",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.83/GestorIA-Servidor-0.5.83.zip",
+    "sha256": "d709ebc46604a0bf848c7d3061c9537d0e1743dc52dba258609f1fe7cb0735c6",
+    "tamanho": 88738346,
+    "changelog": "ST de PE de autopecas: carga completa do levantamento da Motobox (284 regras de NCM, excecoes ratificadas)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "d12fed4",
-    "data": "2026-10-16T03:55:06.741Z"
+    "commit": "9069c29",
+    "data": "2026-10-16T04:26:36.134Z"
   }
 }
