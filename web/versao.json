@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.116",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.116/GestorIA-Servidor-0.5.116.zip",
-    "sha256": "4a4bfd84df5c7d248c6536797ce29a9e42f7b3ace242bde59d861cf3000febcf",
-    "tamanho": 88823592,
-    "changelog": "Importacao do Genesis traz o codigo de barras",
+    "versao": "0.5.117",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.117/GestorIA-Servidor-0.5.117.zip",
+    "sha256": "5d5b53106890ba8d71c19c99dbfbf420342e81b4c01e9b24eadfd176decce9da",
+    "tamanho": 88825442,
+    "changelog": "Assistente completa cliente (Receita, CEP, IBGE, IE) e sugere NCM",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "868e1b3",
-    "data": "2026-10-16T22:20:30.393Z"
+    "commit": "c4cf9bd",
+    "data": "2026-10-16T22:30:01.628Z"
   }
 }
