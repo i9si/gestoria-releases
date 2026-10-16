@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.95",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.95/GestorIA-Servidor-0.5.95.zip",
-    "sha256": "b9a6408c2987ee7b0e1d321c292e9aa7c70e1d400719f1a35ba5fcd244b92e0d",
-    "tamanho": 88782837,
-    "changelog": "Oficina: modelos de moto; Inventario do dia: recalculo do custo (deposito)",
+    "versao": "0.5.96",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.96/GestorIA-Servidor-0.5.96.zip",
+    "sha256": "ffea339ce1944fb4011d4ea869dd0d9187dee1304ac6a6b3b9332a4b5a5ee717",
+    "tamanho": 88782866,
+    "changelog": "CMV do inventario monta os livros do mes mesmo sem o contador cadastrado",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "dc9a154",
-    "data": "2026-10-16T15:04:50.131Z"
+    "commit": "73b0381",
+    "data": "2026-10-16T15:12:51.599Z"
   }
 }
