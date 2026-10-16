@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.118",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.118/GestorIA-Servidor-0.5.118.zip",
-    "sha256": "13deca5faf45cf192c10205c1a55c1cbb0e5d5d237e824be99683f1351135e75",
-    "tamanho": 88825759,
-    "changelog": "Nota de entrada completa o codigo de barras do produto",
+    "versao": "0.5.119",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.119/GestorIA-Servidor-0.5.119.zip",
+    "sha256": "1c156ee139105853084f87cd0711d5a30971185c01cb2d4fe61db6dbb5afa742",
+    "tamanho": 88825867,
+    "changelog": "Volumes do transporte com rotulos",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "ad4ea4c",
-    "data": "2026-10-16T22:41:16.715Z"
+    "commit": "85b8c53",
+    "data": "2026-10-16T23:12:00.101Z"
   }
 }
