@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.122",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.122/GestorIA-Servidor-0.5.122.zip",
-    "sha256": "f340ed4cf7e0b3422b0063016815bdb3204deec6ce4a7d7ef164a92526228f38",
-    "tamanho": 88829829,
-    "changelog": "NF-e: o caixa pergunta o frete antes do pagamento; campo Informacoes adicionais da nota (sai nos Dados adicionais do DANFE); veiculo da loja sai com a loja como transportadora; o Conferir a NF-e atualiza o DANFE depois de salvar o frete.",
+    "versao": "0.5.123",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.123/GestorIA-Servidor-0.5.123.zip",
+    "sha256": "3252909e54d4c82008cd3912a2d0e8d06a8ef032134968486007c5cd2206f1e4",
+    "tamanho": 88829975,
+    "changelog": "NF-e enviada pelo Conferir: depois de autorizada, a janela mostra Ver e imprimir o DANFE, E-mail e Baixar XML.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "4596cf8",
-    "data": "2026-10-17T00:09:21.258Z"
+    "commit": "0f69806",
+    "data": "2026-10-17T00:42:16.890Z"
   }
 }
