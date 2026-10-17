@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.123",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.123/GestorIA-Servidor-0.5.123.zip",
-    "sha256": "3252909e54d4c82008cd3912a2d0e8d06a8ef032134968486007c5cd2206f1e4",
+    "versao": "0.5.124",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.124/GestorIA-Servidor-0.5.124.zip",
+    "sha256": "1c0f09aa20ba3d4b85ce67c19071d39c51af696396dac263d68e795331ccdb59",
     "tamanho": 88829975,
-    "changelog": "NF-e enviada pelo Conferir: depois de autorizada, a janela mostra Ver e imprimir o DANFE, E-mail e Baixar XML.",
+    "changelog": "Documentos fiscais: nota cancelada aparece com o selo em vermelho.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "0f69806",
-    "data": "2026-10-17T00:42:16.890Z"
+    "commit": "4293080",
+    "data": "2026-10-17T00:45:28.416Z"
   }
 }
