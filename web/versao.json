@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.126",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.126/GestorIA-Servidor-0.5.126.zip",
-    "sha256": "db9e8aac124e470ab13c0ad4b7f922ed1efe3c2e65adb3c8f603922f138a1fb6",
-    "tamanho": 88831523,
-    "changelog": "NF-e: natureza da operacao pelo CFOP (5101 = VENDA DE PRODUCAO DO ESTABELECIMENTO, 5102 = mercadoria de terceiros); volumes do transporte comecam em branco; data e hora da saida iguais as da emissao.",
+    "versao": "0.5.127",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.127/GestorIA-Servidor-0.5.127.zip",
+    "sha256": "fe610a38eda31e2bf338e94baad8383f2746918b62fbce7bdf23c9f45329785c",
+    "tamanho": 88836982,
+    "changelog": "Minhas faturas: o administrador ve as faturas da Atendi9 e paga pelo link; aviso ao entrar quando a fatura vence (5 dias antes) ou esta vencida; com 15 dias de atraso so a venda nova fica bloqueada, liberada sozinha depois do pagamento.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "d1f2eef",
-    "data": "2026-10-17T01:02:03.600Z"
+    "commit": "06dfb13",
+    "data": "2026-10-18T12:33:53.290Z"
   }
 }
