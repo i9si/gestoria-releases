@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.127",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.127/GestorIA-Servidor-0.5.127.zip",
-    "sha256": "fe610a38eda31e2bf338e94baad8383f2746918b62fbce7bdf23c9f45329785c",
-    "tamanho": 88836982,
-    "changelog": "Minhas faturas: o administrador ve as faturas da Atendi9 e paga pelo link; aviso ao entrar quando a fatura vence (5 dias antes) ou esta vencida; com 15 dias de atraso so a venda nova fica bloqueada, liberada sozinha depois do pagamento.",
+    "versao": "0.5.128",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.128/GestorIA-Servidor-0.5.128.zip",
+    "sha256": "5850d8b5dd576dea6de6ecf0ced9f103482609213e6cbdffd19c9af5ffae6a1d",
+    "tamanho": 88840450,
+    "changelog": "Devolucao (NF-e): preparada para a regra nova da SEFAZ de 03/11 - cada item leva a nota de origem e o numero do item nela. Ate la a nota sai como hoje.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "06dfb13",
-    "data": "2026-10-18T12:33:53.290Z"
+    "commit": "50ef367",
+    "data": "2026-10-18T12:43:43.702Z"
   }
 }
