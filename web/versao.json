@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.143",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.143/GestorIA-Servidor-0.5.143.zip",
-    "sha256": "3e188bcdf3a7450715586985b8660a69c16e91d8505f390e4120b9833e6b0992",
-    "tamanho": 88865247,
-    "changelog": "Certificado digital por filial: a filial pode ter o certificado dela; sem ele usa o da matriz.",
+    "versao": "0.5.144",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.144/GestorIA-Servidor-0.5.144.zip",
+    "sha256": "87cd1737bc836c38b2e4d7131a11387890d917ac06d952de05077fbe4cf08883",
+    "tamanho": 88866023,
+    "changelog": "SPED: os meses de antes do GestorIA aparecem como entregues pelo sistema antigo, agrupados num cartao.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "53d8463",
-    "data": "2026-10-19T19:48:33.494Z"
+    "commit": "648cf1b",
+    "data": "2026-10-19T19:55:31.777Z"
   }
 }
