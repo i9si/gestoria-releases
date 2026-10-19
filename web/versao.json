@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.139",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.139/GestorIA-Servidor-0.5.139.zip",
-    "sha256": "a17c0f0742486eaa5612a3a31bbdcafbe83f7fe72e3ac3eae034b593d5f4f871",
-    "tamanho": 88858136,
-    "changelog": "Importacao do Genesis: as transportadoras entram como fornecedor marcado transportadora.",
+    "versao": "0.5.140",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.140/GestorIA-Servidor-0.5.140.zip",
+    "sha256": "d7ffc7d1fb0ced933ec9bc448162eafad889955f72ac52d5d3401fd9e9087893",
+    "tamanho": 88858325,
+    "changelog": "Notas avulsas: modelo Bonificacao / brinde, com o CFOP 5910 (6910 para outro estado) ja nos produtos.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "45656b6",
-    "data": "2026-10-19T17:58:39.629Z"
+    "commit": "0df21e1",
+    "data": "2026-10-19T18:31:32.204Z"
   }
 }
