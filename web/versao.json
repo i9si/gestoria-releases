@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.138",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.138/GestorIA-Servidor-0.5.138.zip",
-    "sha256": "6f069c09646308ed5c426ab1be2710605245a6370d4dc7a2c7e6ace9ac745032",
-    "tamanho": 88856024,
-    "changelog": "Cadastro do usuario: botao Copiar mensagem de boas-vindas, com o site, o usuario e a senha, para colar no WhatsApp.",
+    "versao": "0.5.139",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.139/GestorIA-Servidor-0.5.139.zip",
+    "sha256": "a17c0f0742486eaa5612a3a31bbdcafbe83f7fe72e3ac3eae034b593d5f4f871",
+    "tamanho": 88858136,
+    "changelog": "Importacao do Genesis: as transportadoras entram como fornecedor marcado transportadora.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "da86ea8",
-    "data": "2026-10-19T17:40:24.941Z"
+    "commit": "45656b6",
+    "data": "2026-10-19T17:58:39.629Z"
   }
 }
