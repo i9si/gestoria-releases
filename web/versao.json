@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.145",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.145/GestorIA-Servidor-0.5.145.zip",
-    "sha256": "dd1e238d74f9b53cd29f37036cecdab7a9342ca3335e21297de34423c13b7a69",
-    "tamanho": 88866742,
-    "changelog": "Inventario para conferencia (folha em pe, sem impostos) e registro na auditoria do SPED gerado de novo depois do envio.",
+    "versao": "0.5.146",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.146/GestorIA-Servidor-0.5.146.zip",
+    "sha256": "48c72a3198d5cbf8524435f076fa31e969fab91011a0af98ec46d0075ad4aa11",
+    "tamanho": 88866776,
+    "changelog": "Inventario: botoes PDF/Conferencia nao ficam mais por cima do CMV",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "b12f6f7",
-    "data": "2026-10-19T20:01:44.552Z"
+    "commit": "56155d6",
+    "data": "2026-10-19T21:41:18.457Z"
   }
 }
