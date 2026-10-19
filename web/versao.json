@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.133",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.133/GestorIA-Servidor-0.5.133.zip",
-    "sha256": "de83aea4d44169a9f617837716149bc0b11ab20e98b5d1b5102230aa8c8ac13d",
-    "tamanho": 88851429,
-    "changelog": "NFC-e: com a SEFAZ lenta a nota nao sai mais em dobro; cancelamento por substituicao da NFC-e duplicada; Consultar na SEFAZ na nota descartada.",
+    "versao": "0.5.134",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.134/GestorIA-Servidor-0.5.134.zip",
+    "sha256": "454807379b2dc0d73e31fbc117153e2697d56be1d25715d6de3781b91ec206ee",
+    "tamanho": 88853677,
+    "changelog": "NFC-e em contingencia com o mesmo numero: se a nota normal chegou a SEFAZ, ela vale; sem nota em dobro e sem numero para inutilizar.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "3ef7b3e",
-    "data": "2026-10-19T15:10:17.250Z"
+    "commit": "179d28e",
+    "data": "2026-10-19T16:05:49.826Z"
   }
 }
