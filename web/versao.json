@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.137",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.137/GestorIA-Servidor-0.5.137.zip",
-    "sha256": "71c46fa52ac880bcda6ddcb95d9ed78e196ee2498d705fbfa25b3e8e3000a8f8",
-    "tamanho": 88855461,
-    "changelog": "Desistir desta nota: a nota recusada ou sem resposta (que a SEFAZ confirma que nao existe) sai da venda e o numero e inutilizado na hora.",
+    "versao": "0.5.138",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.138/GestorIA-Servidor-0.5.138.zip",
+    "sha256": "6f069c09646308ed5c426ab1be2710605245a6370d4dc7a2c7e6ace9ac745032",
+    "tamanho": 88856024,
+    "changelog": "Cadastro do usuario: botao Copiar mensagem de boas-vindas, com o site, o usuario e a senha, para colar no WhatsApp.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "0315866",
-    "data": "2026-10-19T16:56:57.452Z"
+    "commit": "da86ea8",
+    "data": "2026-10-19T17:40:24.941Z"
   }
 }
