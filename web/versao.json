@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.141",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.141/GestorIA-Servidor-0.5.141.zip",
-    "sha256": "5136d37b7abe9cc303d39b1f9371f2f45bb4abba957bcbd685647bd85b43c158",
-    "tamanho": 88858971,
-    "changelog": "Bonificacao / brinde: CFOP 5910/6910, PIS/COFINS 49 e o ICMS escolhido em Parametros > Notas avulsas.",
+    "versao": "0.5.142",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.142/GestorIA-Servidor-0.5.142.zip",
+    "sha256": "a8e690436434b4b28dec1f71db42fd501085dfcda6e006b802d39f5397ebe9c1",
+    "tamanho": 88863403,
+    "changelog": "SPED: os meses aparecem no topo da tela com a situacao; o mes fechado (ja entregue) nao deixa mexer nos fretes dele.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "691adfa",
-    "data": "2026-10-19T18:37:04.498Z"
+    "commit": "46fe97e",
+    "data": "2026-10-19T19:20:30.087Z"
   }
 }
