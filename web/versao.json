@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.134",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.134/GestorIA-Servidor-0.5.134.zip",
-    "sha256": "454807379b2dc0d73e31fbc117153e2697d56be1d25715d6de3781b91ec206ee",
-    "tamanho": 88853677,
-    "changelog": "NFC-e em contingencia com o mesmo numero: se a nota normal chegou a SEFAZ, ela vale; sem nota em dobro e sem numero para inutilizar.",
+    "versao": "0.5.135",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.135/GestorIA-Servidor-0.5.135.zip",
+    "sha256": "395615715e41c3c36a15dea1647e3d6555e5f28f39d6f5ff6595436fe225dbb6",
+    "tamanho": 88854020,
+    "changelog": "Botao Cancelar esta nota na NFC-e duplicada (cancela so a nota, a venda continua).",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "179d28e",
-    "data": "2026-10-19T16:05:49.826Z"
+    "commit": "11932b9",
+    "data": "2026-10-19T16:26:32.611Z"
   }
 }
