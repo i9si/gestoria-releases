@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.131",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.131/GestorIA-Servidor-0.5.131.zip",
-    "sha256": "d7d83d97b1b14fc5aa60b0d26d4848d1bcc90520052c0314fe5812f0c827d14f",
-    "tamanho": 88850645,
-    "changelog": "NFC-e em contingencia: com a SEFAZ fora do ar o cupom continua pendente e e enviado quando ela voltar (antes era descartado). Chat de suporte: uma conversa por usuario.",
+    "versao": "0.5.132",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.132/GestorIA-Servidor-0.5.132.zip",
+    "sha256": "d0dabd02762089fc67daece8d5178c1060c1a1f0fe21b4629a59dcd0cc60b0db",
+    "tamanho": 88850848,
+    "changelog": "Consultar na SEFAZ registra a NFC-e que a SEFAZ autorizou depois do tempo esgotado (antes ficava para inutilizar).",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "ebe7a53",
-    "data": "2026-10-19T14:25:14.080Z"
+    "commit": "4feab59",
+    "data": "2026-10-19T14:50:33.173Z"
   }
 }
