@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.147",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.147/GestorIA-Servidor-0.5.147.zip",
-    "sha256": "235b4799efe647aeaac4d33bc70ae14e1da72d6d95f4e43c52da0e90f402b5a2",
-    "tamanho": 88874078,
-    "changelog": "Pre-venda a prazo ja lanca as parcelas no Contas a receber; venda a prazo no cupom como dinheiro ou PIX (parametro); dados do cheque; inventario: Imprimir pergunta completo ou simples",
+    "versao": "0.5.148",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.148/GestorIA-Servidor-0.5.148.zip",
+    "sha256": "2be0b087d8fca52fcc8c9f36a6cc68b641bce2ff51dfbb9545ddeed8afd49877",
+    "tamanho": 88876406,
+    "changelog": "Video da Ajuda: Vender a prazo e receber as parcelas; caixa e auditoria mostram Recebimento",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "2d5790d",
-    "data": "2026-10-19T22:06:02.441Z"
+    "commit": "52fe525",
+    "data": "2026-10-19T23:32:48.823Z"
   }
 }
