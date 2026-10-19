@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.128",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.128/GestorIA-Servidor-0.5.128.zip",
-    "sha256": "5850d8b5dd576dea6de6ecf0ced9f103482609213e6cbdffd19c9af5ffae6a1d",
-    "tamanho": 88840450,
-    "changelog": "Devolucao (NF-e): preparada para a regra nova da SEFAZ de 03/11 - cada item leva a nota de origem e o numero do item nela. Ate la a nota sai como hoje.",
+    "versao": "0.5.129",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.129/GestorIA-Servidor-0.5.129.zip",
+    "sha256": "3d491b00d2cb6bc5074cd45983f5dcf4d63c3ee829058c0e8ebd683546d4ffae",
+    "tamanho": 88850108,
+    "changelog": "Precos A, B e C: ate tres precos de venda por produto, escolhidos item a item na pre-venda e no caixa (setinhas no valor ou teclas <- ->). Liga em Parametros do sistema > Mais de um preco de venda. Video na Ajuda.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "50ef367",
-    "data": "2026-10-18T12:43:43.702Z"
+    "commit": "67c2b2d",
+    "data": "2026-10-19T13:51:11.947Z"
   }
 }
