@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.148",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.148/GestorIA-Servidor-0.5.148.zip",
-    "sha256": "2be0b087d8fca52fcc8c9f36a6cc68b641bce2ff51dfbb9545ddeed8afd49877",
-    "tamanho": 88876406,
-    "changelog": "Video da Ajuda: Vender a prazo e receber as parcelas; caixa e auditoria mostram Recebimento",
+    "versao": "0.5.149",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.149/GestorIA-Servidor-0.5.149.zip",
+    "sha256": "1f9c270bcd8aa2dab8d5c4311972a79066dc2a03173d78d883d67705220ad1d3",
+    "tamanho": 88876817,
+    "changelog": "Login da nuvem: link para instalar o GestorIA no computador (abre com o Windows)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "52fe525",
-    "data": "2026-10-19T23:32:48.823Z"
+    "commit": "cd84418",
+    "data": "2026-10-20T12:25:31.498Z"
   }
 }
