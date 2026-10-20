@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.153",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.153/GestorIA-Servidor-0.5.153.zip",
-    "sha256": "7067e9043cb158998be4db4351497fba600277d70fd5db53717582c563437d56",
-    "tamanho": 88880746,
-    "changelog": "Devolucao feita pelo cliente entra como devolucao de venda (custo nao muda); assistente avisa quando a nota ja e devolucao; IBGE completado pela nota",
+    "versao": "0.5.154",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.154/GestorIA-Servidor-0.5.154.zip",
+    "sha256": "20cc27e948151c6bf5ef2a6525e6b9569a650c863782f2e850825a8140cbf09c",
+    "tamanho": 88880794,
+    "changelog": "Importacao do Genesis: transportadoras com o codigo IBGE do municipio",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "090b8a6",
-    "data": "2026-10-20T15:16:44.960Z"
+    "commit": "789267b",
+    "data": "2026-10-20T15:28:06.586Z"
   }
 }
