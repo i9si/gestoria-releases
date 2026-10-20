@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.158",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.158/GestorIA-Servidor-0.5.158.zip",
-    "sha256": "ffd998dc196463587952d2ec13b6405568751aa48715ebc424bf059aceebebf3",
-    "tamanho": 88882366,
-    "changelog": "Documentos fiscais: Desistir tambem na NF-e que nunca foi enviada (aguardando conferencia); o numero e inutilizado.",
+    "versao": "0.5.159",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.159/GestorIA-Servidor-0.5.159.zip",
+    "sha256": "41690607130c958be9b1d349edaa3ab0cb5f1c43c121f6e3e5e2e593a206ee52",
+    "tamanho": 88882585,
+    "changelog": "Nota de bonificacao/brinde baixa o estoque ao concluir; a nota avulsa mostra a opcao Baixar do estoque.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "c8b8652",
-    "data": "2026-10-20T19:08:43.495Z"
+    "commit": "39fd516",
+    "data": "2026-10-20T19:16:25.943Z"
   }
 }
