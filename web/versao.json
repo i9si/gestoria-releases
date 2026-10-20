@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.154",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.154/GestorIA-Servidor-0.5.154.zip",
-    "sha256": "20cc27e948151c6bf5ef2a6525e6b9569a650c863782f2e850825a8140cbf09c",
-    "tamanho": 88880794,
-    "changelog": "Importacao do Genesis: transportadoras com o codigo IBGE do municipio",
+    "versao": "0.5.155",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.155/GestorIA-Servidor-0.5.155.zip",
+    "sha256": "4d8918bd184ef9b781fd46a49b9c8f4a1385060152eaf3899e4f4912b2e93f59",
+    "tamanho": 88881486,
+    "changelog": "Parametro novo em Compras: ajustar o preco de venda sozinho na entrada da nota, pela margem do produto (so sobe).",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "789267b",
-    "data": "2026-10-20T15:28:06.586Z"
+    "commit": "c14ddcc",
+    "data": "2026-10-20T18:06:10.373Z"
   }
 }
