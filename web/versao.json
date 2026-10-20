@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.157",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.157/GestorIA-Servidor-0.5.157.zip",
-    "sha256": "9238552eecacbc3bbefb10a8b0706304cf282ebbd56a563e75ad4b3075643e63",
-    "tamanho": 88882259,
-    "changelog": "Na conferencia da nota de compra da para digitar a margem (%) e o preco de venda sai do custo novo, ou digitar o preco final.",
+    "versao": "0.5.158",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.158/GestorIA-Servidor-0.5.158.zip",
+    "sha256": "ffd998dc196463587952d2ec13b6405568751aa48715ebc424bf059aceebebf3",
+    "tamanho": 88882366,
+    "changelog": "Documentos fiscais: Desistir tambem na NF-e que nunca foi enviada (aguardando conferencia); o numero e inutilizado.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "aede93e",
-    "data": "2026-10-20T19:04:21.604Z"
+    "commit": "c8b8652",
+    "data": "2026-10-20T19:08:43.495Z"
   }
 }
