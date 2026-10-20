@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.161",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.161/GestorIA-Servidor-0.5.161.zip",
-    "sha256": "103c1e5e574f04f294c736965f958eb25f509e668080216de14aab5a108ecfb5",
-    "tamanho": 88883766,
-    "changelog": "Atualizacao do sistema nao recarrega mais a tela no meio da digitacao: aparece um aviso no topo e a tela atualiza quando voce mudar de tela.",
+    "versao": "0.5.162",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.162/GestorIA-Servidor-0.5.162.zip",
+    "sha256": "2482aac94ee0e08c8c47b14096f4fd97ea61467edc41f4b6a797402dd3325066",
+    "tamanho": 88887054,
+    "changelog": "Documentos fiscais: busca pelo numero do pedido do sistema antigo e pelo valor; Devolucao direto na nota importada; video Notas antigas na Ajuda.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "089eb5e",
-    "data": "2026-10-20T19:42:14.079Z"
+    "commit": "d3c202f",
+    "data": "2026-10-20T20:57:50.191Z"
   }
 }
