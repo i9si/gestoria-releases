@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.160",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.160/GestorIA-Servidor-0.5.160.zip",
-    "sha256": "da2a8655fa7c8c11f7f79ee1e71de05de9a18a09b7b91e7432555896b5b13adf",
-    "tamanho": 88883841,
-    "changelog": "Ajuda: video novo da nota de bonificacao (brinde).",
+    "versao": "0.5.161",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.161/GestorIA-Servidor-0.5.161.zip",
+    "sha256": "103c1e5e574f04f294c736965f958eb25f509e668080216de14aab5a108ecfb5",
+    "tamanho": 88883766,
+    "changelog": "Atualizacao do sistema nao recarrega mais a tela no meio da digitacao: aparece um aviso no topo e a tela atualiza quando voce mudar de tela.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "84d8d28",
-    "data": "2026-10-20T19:29:44.118Z"
+    "commit": "089eb5e",
+    "data": "2026-10-20T19:42:14.079Z"
   }
 }
