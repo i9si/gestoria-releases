@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.159",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.159/GestorIA-Servidor-0.5.159.zip",
-    "sha256": "41690607130c958be9b1d349edaa3ab0cb5f1c43c121f6e3e5e2e593a206ee52",
-    "tamanho": 88882585,
-    "changelog": "Nota de bonificacao/brinde baixa o estoque ao concluir; a nota avulsa mostra a opcao Baixar do estoque.",
+    "versao": "0.5.160",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.160/GestorIA-Servidor-0.5.160.zip",
+    "sha256": "da2a8655fa7c8c11f7f79ee1e71de05de9a18a09b7b91e7432555896b5b13adf",
+    "tamanho": 88883841,
+    "changelog": "Ajuda: video novo da nota de bonificacao (brinde).",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "39fd516",
-    "data": "2026-10-20T19:16:25.943Z"
+    "commit": "84d8d28",
+    "data": "2026-10-20T19:29:44.118Z"
   }
 }
