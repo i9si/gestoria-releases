@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.149",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.149/GestorIA-Servidor-0.5.149.zip",
-    "sha256": "1f9c270bcd8aa2dab8d5c4311972a79066dc2a03173d78d883d67705220ad1d3",
-    "tamanho": 88876817,
-    "changelog": "Login da nuvem: link para instalar o GestorIA no computador (abre com o Windows)",
+    "versao": "0.5.150",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.150/GestorIA-Servidor-0.5.150.zip",
+    "sha256": "6ee9f110302558ad86e22fc2249e586a215d655a5cf354df291ffa1d4cd58dbe",
+    "tamanho": 88877197,
+    "changelog": "Ajuda (F1): baixar o instalador do GestorIA para o computador",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "cd84418",
-    "data": "2026-10-20T12:25:31.498Z"
+    "commit": "c489705",
+    "data": "2026-10-20T12:33:42.414Z"
   }
 }
