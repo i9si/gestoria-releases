@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.151",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.151/GestorIA-Servidor-0.5.151.zip",
-    "sha256": "4ea8fe151021591070e208337da31b0a3f8d90d2ccd0071e786bd7838c1ef825",
-    "tamanho": 88877608,
-    "changelog": "Compras > Emitidas para a loja: numero da nota e busca por numero, fornecedor, CNPJ ou chave",
+    "versao": "0.5.152",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.152/GestorIA-Servidor-0.5.152.zip",
+    "sha256": "9c78908bcc9c444d1492aa9bf9d84672d8bda38529fc19284b36bc1cb0b517d3",
+    "tamanho": 88878939,
+    "changelog": "Acentos estragados no XML do fornecedor consertados na devolucao e nas notas de compra",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "8a8db30",
-    "data": "2026-10-20T12:48:19.165Z"
+    "commit": "33e94d0",
+    "data": "2026-10-20T14:24:43.880Z"
   }
 }
