@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.162",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.162/GestorIA-Servidor-0.5.162.zip",
-    "sha256": "2482aac94ee0e08c8c47b14096f4fd97ea61467edc41f4b6a797402dd3325066",
-    "tamanho": 88887054,
-    "changelog": "Documentos fiscais: busca pelo numero do pedido do sistema antigo e pelo valor; Devolucao direto na nota importada; video Notas antigas na Ajuda.",
+    "versao": "0.5.166",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.166/GestorIA-Servidor-0.5.166.zip",
+    "sha256": "6a48cd4980f12d5912b466c4eb2b6bfc53041d787df84879553ed99f8fa1fe72",
+    "tamanho": 113285304,
+    "changelog": "0.5.166: conferencia do extrato de fronteira (PDF do e-Fisco, situacao de cada nota na SEFAZ, nota cancelada fora do SPED, resposta pronta para a contabilidade); Documentos fiscais com o total emitido no mes e filtro por data; historico do cliente (vendas, crediario, creditos, pedidos, produtos) no cadastro; DANFE no app desktop quando a janela nova nao abre",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "d3c202f",
-    "data": "2026-10-20T20:57:50.191Z"
+    "commit": "054585c",
+    "data": "2026-10-21T15:08:13.482Z"
   }
 }
