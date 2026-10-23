@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.171",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.171/GestorIA-Servidor-0.5.171.zip",
-    "sha256": "92d5e2dcba94e531b9567837cf93469ed26e4d4beaf11953130e466e6e661c92",
-    "tamanho": 113561041,
-    "changelog": "Devolucao de venda: a observacao da NF-e diz se foi TOTAL ou PARCIAL, de qual NFC-e/NF-e (numero, serie, data) e a chave, automaticamente (J S)",
+    "versao": "0.5.172",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.172/GestorIA-Servidor-0.5.172.zip",
+    "sha256": "74768d7dd0c1701c45f2db3fab6857b8107f3691d787a48d30b60495cf9ccceb",
+    "tamanho": 113561426,
+    "changelog": "NF-e de devolucao com o texto do decreto da reducao; previa do DANFE com a base reduzida e os centavos iguais aos da nota (J S)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "2408057",
-    "data": "2026-10-23T20:46:31.414Z"
+    "commit": "bc66b24",
+    "data": "2026-10-23T21:14:13.470Z"
   }
 }
