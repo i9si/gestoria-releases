@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.166",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.166/GestorIA-Servidor-0.5.166.zip",
-    "sha256": "6a48cd4980f12d5912b466c4eb2b6bfc53041d787df84879553ed99f8fa1fe72",
-    "tamanho": 113285304,
-    "changelog": "0.5.166: conferencia do extrato de fronteira (PDF do e-Fisco, situacao de cada nota na SEFAZ, nota cancelada fora do SPED, resposta pronta para a contabilidade); Documentos fiscais com o total emitido no mes e filtro por data; historico do cliente (vendas, crediario, creditos, pedidos, produtos) no cadastro; DANFE no app desktop quando a janela nova nao abre",
+    "versao": "0.5.170",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.170/GestorIA-Servidor-0.5.170.zip",
+    "sha256": "564e8f43517cc72d891fa70afa414affbfe93d15d1cd8a62c04200ce4409e357",
+    "tamanho": 113560712,
+    "changelog": "Devolucao de venda: quantidade a devolver digitada em cada item (aceita decimal, ex. 102,23) e atalho 'tudo'; + e - continuam (J S)",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "054585c",
-    "data": "2026-10-21T15:08:13.482Z"
+    "commit": "f15ea8d",
+    "data": "2026-10-23T20:31:05.014Z"
   }
 }
