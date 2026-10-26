@@ -1,13 +1,13 @@
 {
   "servidor": {
-    "versao": "0.5.173",
-    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.173/GestorIA-Servidor-0.5.173.zip",
-    "sha256": "6a71e20092dce4349d7a320a2411a5c00555193dd8cdeba8a3e9d5acb86dd5a5",
-    "tamanho": 113503867,
-    "changelog": "Carga do Vend9: produto que ja existe recebe descricao, preco, codigo de barras, SKU e foto do Vend9 na primeira carga (NCM, tributacao e estoque ficam); opcao na Central.",
+    "versao": "0.5.174",
+    "url_zip": "https://github.com/i9si/gestoria-releases/releases/download/web-servidor-v0.5.174/GestorIA-Servidor-0.5.174.zip",
+    "sha256": "fcb836622c5026b4a9cbae06d285bf45d6c7ee33fec760bb3a3044452b174b9f",
+    "tamanho": 113505624,
+    "changelog": "Produto marcado 'Vende no Vend9': o catalogo so manda o marcado; a carga marca o que veio do Vend9; produto novo daqui nasce desmarcado. Caixa no cadastro e filtro na lista (loja ligada). Carga respeita usa_grade do Vend9.",
     "obrigatorio": false,
     "minima": "0.1.0",
-    "commit": "38b26f1",
-    "data": "2026-10-25T21:48:20.951Z"
+    "commit": "14d6eee",
+    "data": "2026-10-26T01:18:47.546Z"
   }
 }
